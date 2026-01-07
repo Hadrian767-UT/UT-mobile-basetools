@@ -3,6 +3,7 @@ In first, you need to have an computer.
 If you don't have, this tutorial is not for u (yet), sorry.
 
 
+
 If u have, congratulations!
 
 You can proceed!
