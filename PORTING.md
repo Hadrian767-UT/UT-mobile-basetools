@@ -30,6 +30,29 @@ WARNING: If you only have an .exe (even the game being GameMaker), you game mayb
 
 Maybe your game is encrypted with Enigma VirtualBox/SFX/Enigma Protector!
 
+To discover this, download and install [7-Zip](https://www.7-zip.org/)!
+
+After install it, click with right mouse button in your .exe;
+
+Put the mouse in "7-Zip -> Open Inside"
+
+Now, if your .exe is like this: 
+
+<img width="100" height="253" alt="Captura de Tela (68)" src="https://github.com/user-attachments/assets/c558ce88-6c59-490f-a905-f677c089f05a" />
+
+Is Enigma VirtualBox!
+
+Now, if 7-zip give this error:  
+
+<img width="414" height="153" alt="Captura de Tela (69)" src="https://github.com/user-attachments/assets/752e9041-16d4-44aa-9a2b-b6ff93c90ee5" />
+
+Is SFX!
+
+Now, if the .exe is like this:  
+
+<img width="162" height="268" alt="Captura de Tela (70)" src="https://github.com/user-attachments/assets/36067b65-7348-47cc-8d51-072ac6ac7dc4" />
+
+Is Enigma Protector!
 
 If your case is Enigma VirtualBox, download [EnigmaVBUnpacker](https://mega.nz/file/slJknLSR#ZUOr_vDukmfVuUS-CThF5sIxrQxaY_N3dZeVEd662qQ)!
 
@@ -42,4 +65,6 @@ Now, click in the "three dots"
 Select your .exe
 
 And click in "Unpack"!
+
+
 
