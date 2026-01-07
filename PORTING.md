@@ -68,7 +68,7 @@ And click in "Unpack"!
 
 Now, if your case is SFX, open your .exe (clicking "Yes" to admin permission), and open File Explorer.
 
-In File Explorer, go to "C:\Users\~your-user~\AppData\Local\Temp"
+In File Explorer, go to "C:\Users\\~your-user~\AppData\Local\Temp"
 
 Now, filter to "Modification date"
 
