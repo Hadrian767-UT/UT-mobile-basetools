@@ -10,6 +10,14 @@ In first, download [UndertaleModTool](https://github.com/UnderminersTeam/Underta
 
 This is only avaliable for PC (or no)
 
-Because, GenOuka is making an [UTMT for Android devices](https://github.com/QiumingOrg/QiuUTMTv4/releases)! (yippee)
+Because, GenOuka is making an [UndertaleModTool for Android devices](https://github.com/QiumingOrg/QiuUTMTv4/releases)! (yippee)
 
 Now, still is a little hard use it to porting. Let's wait to the new updates!
+
+But now, backing to the tutorial:
+
+Open UndertaleModTool
+
+You will have an screen like this:
+
+
