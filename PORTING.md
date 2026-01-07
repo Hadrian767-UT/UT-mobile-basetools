@@ -20,6 +20,4 @@ Open UndertaleModTool
 
 You will have an screen like this:
 
-![utmt omg](./utmt lol.png)
-
-
+<img width="1920" height="1037" alt="utmt lol" src="https://github.com/user-attachments/assets/8db432dc-fa42-4894-9cf7-6b51dc90fa6c" />
