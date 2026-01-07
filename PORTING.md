@@ -52,7 +52,7 @@ Now, if the .exe is like this:
 
 <img width="162" height="268" alt="Captura de Tela (70)" src="https://github.com/user-attachments/assets/36067b65-7348-47cc-8d51-072ac6ac7dc4" />
 
-Is Enigma Protector!
+With all the files being the .exe name, Enigma Protector!
 
 If your case is Enigma VirtualBox, download [EnigmaVBUnpacker](https://mega.nz/file/slJknLSR#ZUOr_vDukmfVuUS-CThF5sIxrQxaY_N3dZeVEd662qQ)!
 
