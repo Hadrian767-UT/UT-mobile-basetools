@@ -66,5 +66,21 @@ Select your .exe
 
 And click in "Unpack"!
 
+Now, if your case is SFX, open your .exe (clicking "Yes" to admin permission), and open File Explorer.
+
+In File Explorer, go to "C:\Users\~your-user~\AppData\Local\Temp"
+
+Now, filter to "Modification date"
+
+Now, go to newest folder (or the second, idk if you opened something after it)
+
+Now, open it.
+
+See that this folder have all the things that u need? (data.win, original .exe, etc)?
+
+Copy this folder to your Downloads
+
+And now, u can close the game.
+
 
 
