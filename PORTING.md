@@ -457,6 +457,10 @@ Make it like this gif is making:
 
 **IMPORTANT THINS THAT I FORGOT TO MENTION:** When you are cloning the APK, make sure that the option **Use old cloning method** is enabled!
 
-If u don't make this, your APK will crash when u run it (there's a way to correct it with the option dsabled, but enable it is better)
+If u don't make this, your APK will crash when u run it (there's a way to correct it with the option disabled, but enable it is better)
 
+Now, open the **resource.arsc** file in your APK!
 
+Clicking in **Search resource value**, search the APK actual name.
+
+Now, see that have two strings with the same name?
