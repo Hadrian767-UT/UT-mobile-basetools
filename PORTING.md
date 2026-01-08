@@ -186,134 +186,99 @@ Extract it
 
 #### Sprites
 
-Click in `Scripts → Resource Importers → ImportGraphics.csx`
-
-Select the `mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)`
-
-(pls, don't use the sprite in `Sprites` location, is my sprite and i didn't authorize nobody to use it.)
-
-Click in `Yes`
-
+Click in `Scripts → Resource Importers → ImportGraphics.csx`<br />
+Select the `mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)`<br />
+(pls, don't use the sprite in `Sprites` location, is my sprite and i didn't authorize nobody to use it.)<br />
+Click in `Yes`<br />
 Click in `Ok` when it finish.
 
 #### Sounds
 
-Click in `Scripts → Resource Importers → ImportAllSounds.csx`
-
-Select the `mobile-controls-location/Sounds`
-
-Click `Yes` for all, minus the two last (First: IsDecompressedOnLoad; Second: audiogroup name)
-
-Click in `Ok`
-
+Click in `Scripts → Resource Importers → ImportAllSounds.csx`<br />
+Select the `mobile-controls-location/Sounds`<br />
+Click `Yes` for all, minus the two last (First: IsDecompressedOnLoad; Second: audiogroup name)<br />
+Click in `Ok`<br />
 And wait the sounds be imported.
 
 #### Fonts
 
-Click in `Scripts → Resource Importers → ImportFonts.csx`
-
-Select the `mobile-controls-location/MobileKey/Fonts (TianQi Buttons)`
-
-(TianQi is the chinese that create the buttons style from my MK, credit him if you will upload your port)
-
+Click in `Scripts → Resource Importers → ImportFonts.csx`<br />
+Select the `mobile-controls-location/MobileKey/Fonts (TianQi Buttons)`<br />
+(TianQi is the chinese that create the buttons style from my MK, credit him if you will upload your port)<br />
 And wait the fonts being imported.
 
 #### Codes
 
-Click in `Scripts → Resource Importers → ImportGML.csx`
-
-Select the `mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)`
-
-Click in `Yes`
-
+Click in `Scripts → Resource Importers → ImportGML.csx`<br />
+Select the `mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)`<br />
+Click in `Yes`<br />
 And wait the codes being imported.
 
 ### Joystick
 
 #### Sprites
 
-Click in `Scripts → Resource Importers → ImportGraphics.csx`
-
-Select the `mobile-controls-location/Joystick/Sprites`
-
-Click in `Yes`
-
+Click in `Scripts → Resource Importers → ImportGraphics.csx`<br />
+Select the `mobile-controls-location/Joystick/Sprites`<br />
+Click in `Yes`<br />
 Click in `Ok` when it finish.
 
 #### Fonts
 
-Click in `Scripts → Resource Importers → ImportFonts.csx`
-
-Select the `mobile-controls-location/Joystick/Fonts`
-
+Click in `Scripts → Resource Importers → ImportFonts.csx`<br />
+Select the `mobile-controls-location/Joystick/Fonts`<br />
 And wait the fonts being imported.
 
 #### Script
 
-Click in `Scripts → Run other script`
-
-Select the `mobile-controls-location/Joystick/idkmobilecontrols4/TouchControlsEnabler0830.csx`
-
-(the `TouchControlsEnabler0403.csx` version is for the UTMT 0.4.0.3)
-
+Click in `Scripts → Run other script`<br />
+Select the `mobile-controls-location/Joystick/idkmobilecontrols4/TouchControlsEnabler0830.csx`<br />
+(the `TouchControlsEnabler0403.csx` version is for the UTMT 0.4.0.3)<br />
 Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
 
 ### Arrows 
 
 #### Script
 
-Click in `Scripts → Run other script`
-
-Select the `mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx`
-
+Click in `Scripts → Run other script`<br />
+Select the `mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx`<br />
 Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
 
 ### Dual Clicker
 
-Click in `Scripts → Resource Importers → ImportGML.csx`
-
-Select the `mobile-controls-location/Dual Clicker NEW/obj_cc`
-
-Click in `Yes`
-
+Click in `Scripts → Resource Importers → ImportGML.csx`<br />
+Select the `mobile-controls-location/Dual Clicker NEW/obj_cc`<br />
+Click in `Yes`<br />
 `COOL THINGS:` If you want to activate DEBUG button, just modify the variable `global.debug_legally` (it is in the code `gml_Object_obj_cc_Create_0`, change this value of `0` to `1`
 
 # Now, we will make the controllers appear
 
-Search `world` in search bar, and click in the code
-
+Search `world` in search bar, and click in the code<br />
 ```
 gml_Object_world_Other_2
-```
-
-And above the line 
-
+```<br />
+And above the line<br />
 ```
 instance_create_depth(0, 0, 0, closed_captions);
-```
-
-Add:
-
+```<br />
+Add:<br />
 ```
 instance_create_depth(0, 0, -15998, obj_cc);
-```
+```<br />
 
 # Now, we will make the closed_captions always visible! (or almost visible) 
 
-Searching `closed_captions`, in the code:
-
+Searching `closed_captions`, in the code:<br />
 ```
 gml_Object_closed_captions_Create_0;
-```
-
-in the line (for 2.3 or more)
-
+```<br />
+in the line (for 2.3 or more)<br />
 ```
 enum UnknownEnum
 {
     Value_m100 = -100
 }
-```
+```<br />
 
 or in the line (for 2.2.2.302 or minus)
 
