@@ -34,16 +34,11 @@ With all the files being the .exe name, Enigma Protector!<br />
 
 ## Enigma VirtualBox
 
-Download [EnigmaVBUnpacker](https://mega.nz/file/slJknLSR#ZUOr_vDukmfVuUS-CThF5sIxrQxaY_N3dZeVEd662qQ)!
-
-You will have an screen like this: 
-
-<img width="445" height="386" alt="Captura de Tela (67)" src="https://github.com/user-attachments/assets/56694c6a-435f-48d5-a309-c2ecdb88ac21" />
-
-Now, click in the `three dots`
-
-Select your .exe
-
+Download [EnigmaVBUnpacker](https://mega.nz/file/slJknLSR#ZUOr_vDukmfVuUS-CThF5sIxrQxaY_N3dZeVEd662qQ)!<br />
+You will have an screen like this:<br />
+<img width="445" height="386" alt="Captura de Tela (67)" src="https://github.com/user-attachments/assets/56694c6a-435f-48d5-a309-c2ecdb88ac21" /><br />
+Now, click in the `three dots`<br />
+Select your .exe<br />
 And click in `Unpack`!
 
 ## SFX
