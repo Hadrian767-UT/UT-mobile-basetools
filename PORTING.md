@@ -403,4 +403,5 @@ After it, follow the steps for this gif:<br />
 In first, in your browser, enter in [Pixlr](https://pixlr.com)<br />
 Open the **AI Photo Editor**<br />
 Click in the blue button with the **+**<br />
-Select the **adaptive_icon.png**
+Select the **adaptive_icon.png**<br />
+And do what this gif make:<br />
