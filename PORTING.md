@@ -1,26 +1,16 @@
 # Downloads
 
-In first, you need to have an computer.
-
-If you don't have, this tutorial is not for u (yet), sorry.
-
-If u have, congratulations!
-
-You can proceed!
-
-In first, download [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/releases)
-
-This is only avaliable for PC (or no)
-
-Because, GenOuka is making an [UndertaleModTool for Android devices](https://github.com/QiumingOrg/QiuUTMTv4/releases)! (yippee)
-
-Now, still is a little hard use it to porting. Let's wait to the new updates!
-
-But now, backing to the tutorial:
-
-Open UndertaleModTool
-
-You will have an screen like this:
+In first, you need to have an computer.<br />
+If you don't have, this tutorial is not for u (yet), sorry.<br />
+If u have, congratulations!<br />
+You can proceed!<br />
+In first, download [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool/releases)<br />
+This is only avaliable for PC (or no)<br />
+Because, GenOuka is making an [UndertaleModTool for Android devices](https://github.com/QiumingOrg/QiuUTMTv4/releases)! (yippee)<br />
+Now, still is a little hard use it to porting. Let's wait to the new updates!<br />
+But now, backing to the tutorial:<br />
+Open UndertaleModTool<br />
+You will have an screen like this:<br />
 
 <img width="1920" height="1037" alt="utmt lol" src="https://github.com/user-attachments/assets/8db432dc-fa42-4894-9cf7-6b51dc90fa6c" />
 
@@ -72,7 +62,7 @@ And click in `Unpack`!
 
 Open your .exe (clicking `Yes` to admin permission), and open File Explorer.
 
-In File Explorer, go to `C:<br />Users<br />your-user<br />AppData<br />Local<br />Temp`
+In File Explorer, go to `C:/Users/your-user/AppData/Local/Temp`
 
 Now, filter to `Modification date`
 
