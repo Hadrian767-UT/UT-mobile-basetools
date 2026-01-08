@@ -415,6 +415,9 @@ inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900)
 
 In first, download [MT Manager](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/MT%20Manager.apk)
 
-And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs)
+And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs) (download the apk that your data.win use, if any APK is missing, write in issues)
 
+After download and install MT Manager, create an folder in any local with any name
+
+Copy the data.win, the locale folder and the APK for the GMS of you data.win.
 
