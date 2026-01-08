@@ -54,32 +54,24 @@ And now, u can close the game.
 
 ## Enigma Protector
 
-But now, if your case is Enigma Protector, i feel so much in say this, but i don't know how to decrypt this, sorry
-
-This even has how decrypt, but is very hard 😭
-
+But now, if your case is Enigma Protector, i feel so much in say this, but i don't know how to decrypt this, sorry<br />
+This even has how decrypt, but is very hard 😭<br />
 Now, backing again for porting methods!
 
 # Now, the real porting
 
-Now that u have the data.win, with the UndertaleModTool opened, click in `File → Open` (in the top left corner) or click `Ctrl + O`!
-
-Select your data.win location
-
-And wait the data.win being loaded.
-
-If u have some error in load, open an [issue](https://github.com/UnderminersTeam/UndertaleModTool/issues) and follow the steps showed in hour of create an issue.
-
+Now that u have the data.win, with the UndertaleModTool opened, click in `File → Open` (in the top left corner) or click `Ctrl + O`!<br />
+Select your data.win location<br />
+And wait the data.win being loaded.<br />
+If u have some error in load, open an [issue](https://github.com/UnderminersTeam/UndertaleModTool/issues) and follow the steps showed in hour of create an issue.<br />
 Well, with all done, lets tro the steps.
 
 ## Step One: Optimization (not mandatory)
 
 ### Shaders
 
-In first, you will remove the shaders, like here:
-
-![2026-01-07 21-45-36](https://github.com/user-attachments/assets/4d80830c-c3d6-46cf-a667-60cce53a5a00)
-
+In first, you will remove the shaders, like here:<br />
+![2026-01-07 21-45-36](https://github.com/user-attachments/assets/4d80830c-c3d6-46cf-a667-60cce53a5a00)<br />
 And make it with ALL shaders avaliable in the game, and making the same thing with all codes showed in "Find all references" screen.
 
 ### Fonts, Sounds and  Sprites
@@ -88,36 +80,27 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ##### Fonts
 
-Click in `Scripts → Resource Exporters → ExportAllFonts.csx`
-
-Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
-
+Click in `Scripts → Resource Exporters → ExportAllFonts.csx`<br />
+Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))<br />
 And wait the magic happens.
 
 ##### Sounds (skip this part if all of your sounds is .ogg)
 
 ##### Exportation
 
-Click in `Scripts → Resource Exporters → ExportAllSounds.csx`
-
-Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)
-
-And wait the magic happens again.
-
+Click in `Scripts → Resource Exporters → ExportAllSounds.csx`<br />
+Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)<br />
+And wait the magic happens again.<br />
 > **WARNING:** If you have any .ogg file in working_directory, cut these files to the sounds folder!
 
 ###### Conversion
 
 Download the [Batch WAV to OGG Converter](https://www.ascensiongamedev.com/files/file/15-batch-wav-to-ogg-converter/)
 
-After downloaded, extract it and run the .exe
-
-Click in `Browse`
-
-Select the folder that u put the sounds
-
-And click in `Convert`
-
+After downloaded, extract it and run the .exe<br />
+Click in `Browse`<br />
+Select the folder that u put the sounds<br />
+And click in `Convert`<br />
 And wait the magic happens for the third time. (oh shit, i can't take any more magics 😭)
 
 ##### Sprites
@@ -128,28 +111,21 @@ The sprites don't be need to be exported. I will explain it later.
 
 ##### Fonts
 
-Click in `Scripts → Resource Importers → ImportFonts.csx`
-
-Select the folder that u put the fonts
-
+Click in `Scripts → Resource Importers → ImportFonts.csx`<br />
+Select the folder that u put the fonts<br />
 And wait the fonts being imported.
 
 ##### Sounds
 
-Click in `Scripts → Resource Importers → ImportSounds.csx`
-
-Select the folder that u put the sounds
-
-Click `Yes` for all, minus the last (IsDecompressedOnLoad)
-
+Click in `Scripts → Resource Importers → ImportSounds.csx`<br />
+Select the folder that u put the sounds<br />
+Click `Yes` for all, minus the last (IsDecompressedOnLoad)<br />
 And wait the sounds being imported.
 
 ##### Sprites
 
-Click in `Scripts → Resource Importers → NewTextureRepacker.csx`
-
-Click in `No` for the question
-
+Click in `Scripts → Resource Importers → NewTextureRepacker.csx`<br />
+Click in `No` for the question<br />
 And wait the sprites being imported.
 
 #### Why i have to do this?
@@ -166,35 +142,26 @@ About the sounds, some games have an exorbitant size of data.win because of the 
 
 #### Editing scripts
 
-In first, do what this gif is making: 
-
-![2026-01-07 22-50-59](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)
-
-(pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)
-
+In first, do what this gif is making: <br />
+![2026-01-07 22-50-59](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)<br />
+(pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)<br />
 It need to have done because if u don't do it, the `locale/` folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
 
 #### Editing the .txt files inside the folder
 
-Use your favorite notepad (i recommend to u use [Notepad++](https://notepad-plus-plus.org/downloads/)!)
-
-Open these files in the notepad: 
-
-<img width="107" height="157" alt="Captura de Tela (71)" src="https://github.com/user-attachments/assets/6c343699-7ce3-4bfe-914f-c51c6efa5409" />
-
-(if there's other language name in `locale/` what have these files, do it to these folder too)
-
+Use your favorite notepad (i recommend to u use [Notepad++](https://notepad-plus-plus.org/downloads/)!)<br />
+Open these files in the notepad: <br />
+<img width="107" height="157" alt="Captura de Tela (71)" src="https://github.com/user-attachments/assets/6c343699-7ce3-4bfe-914f-c51c6efa5409" /><br />
+(if there's other language name in `locale/` what have these files, do it to these folder too)<br />
 With the files opened, you will remove the `./` from the start of the paths, like this:  
 
 ![2026-01-08-08-46-47](https://github.com/user-attachments/assets/e90887df-220f-4c2e-bd8d-57bbd38e37b6)
 
 ### Console_Init Error Fix (just make it if the GMS is 2022.9 or minus) 
 
-In first, again, do what this gif is making: 
-
-![2026-01-07 23-05-56](https://github.com/user-attachments/assets/49598b0b-eebf-489c-92d3-9c425a7622cc)
-
-Do the same thing in this codes:
+In first, again, do what this gif is making:<br />
+![2026-01-07 23-05-56](https://github.com/user-attachments/assets/49598b0b-eebf-489c-92d3-9c425a7622cc)<br />
+Do the same thing in this codes:<br />
 
 > Console_Uninit<br />
 > Console_Output<br />
@@ -212,8 +179,7 @@ Do the same thing in this codes:
 
 ## Step Three: Mobile Stuff (Controls)
 
-Download the [Mobile Controls Code](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/Undertale%20Hadrian's%20Mobile%20Controls.zip)
-
+Download the [Mobile Controls Code](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/Undertale%20Hadrian's%20Mobile%20Controls.zip)<br />
 Extract it
 
 ### MobileKey
