@@ -412,3 +412,5 @@ enum UnknownEnum
 inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900) + "}" + text + "&";
 ```
 # Now, we will do the things in phone!
+
+In first, download [MT Manager](https://pan.huang1111.cn/s/Nkv88T1)
