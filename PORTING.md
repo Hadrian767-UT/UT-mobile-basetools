@@ -392,7 +392,22 @@ enum UnknownEnum
 
 2.2.2.302+:
 
-inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(UnknownEnum.Value_m200) + "}" + text + "&";
+inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(200) + "}" + text + "&";
 ```
 
 we will switch for:
+
+```
+2.3+:
+
+enum UnknownEnum
+{
+    Value_m200 = -15900,
+    Value_1 = 1,
+    Value_3 = 3
+}
+
+2.2.2.302+:
+
+inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900) + "}" + text + "&";
+```
