@@ -74,7 +74,7 @@ Open your .exe (clicking **Yes** to admin permission), and open File Explorer.
 
 In File Explorer, go to **C:\Users\your-user\AppData\Local\Temp**
 
-Now, filter to **Modification date**
+Now, filter to `**Modification date**`
 
 Now, go to newest folder (or the second, idk if you opened something after it)
 
