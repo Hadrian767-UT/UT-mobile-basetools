@@ -122,7 +122,7 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ##### Fonts
 
-Click in **Scripts → Resource Exporters → ExportFonts.csx**
+Click in **Scripts → Resource Exporters → ExportAllFonts.csx**
 
 Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
 
@@ -160,7 +160,7 @@ The sprites don't be need to be exported. I will explain it later.
 
 ##### Fonts
 
-Click in **Scripts → Resource Importers → ImportAllFonts.csx**
+Click in **Scripts → Resource Importers → ImportFonts.csx**
 
 Select the folder that u put the fonts
 
@@ -168,7 +168,7 @@ And wait the fonts being imported.
 
 ##### Sounds
 
-Click in **Scripts → Resource Importers → ImportAllSounds.csx**
+Click in **Scripts → Resource Importers → ImportSounds.csx**
 
 Select the folder that u put the sounds
 
