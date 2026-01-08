@@ -214,3 +214,20 @@ Console_Uninit; Console_Output; Console_OutputLine; Console_Clear; Console_GetIn
 
 ## Step Three: Mobile Stuff (Controls)
 
+Download the [Mobile Controls Code](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/Undertale%20Hadrian's%20Mobile%20Controls.zip)
+
+Extract it
+
+### MobileKey
+
+Click in **Scripts → Resource Importers → ImportGMLCode.csx**
+
+Select the **mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)**
+
+(pls, don't use the sprite in **Sprites** location, is my sprite and i didn't authorize nobody to use it.)
+
+Click in **Yes**
+
+Click in **Ok** when it finish.
+
+
