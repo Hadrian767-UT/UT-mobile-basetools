@@ -404,4 +404,5 @@ In first, in your browser, enter in [Pixlr](https://pixlr.com)<br />
 Open the **AI Photo Editor**<br />
 Click in the blue button with the **+**<br />
 Select the **adaptive_icon.png**<br />
-And do what this gif make:<br />
+Click in the local marked in photo:<br />
+<img width="1618" height="950" alt="Captura de Tela (72)" src="https://github.com/user-attachments/assets/7cbe6193-de7a-4c57-b0cd-a41794da4560" />
