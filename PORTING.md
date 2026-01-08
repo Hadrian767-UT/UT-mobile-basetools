@@ -460,4 +460,8 @@ I write it all in 2 days! It was hard, but i get it!<br />
 Good luck in your porting career!<br />
 And don't forget for the last important. No make ports all the time, go take care of yourself!<br />
 And happy 2026 for u all!<br />
+
+# Just more one warning...
+
+If you want to make an translation of this tutorial for your native language, feel free to do it! I will support and allow it!
 Goodbye and cya :3
