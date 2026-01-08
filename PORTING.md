@@ -470,3 +470,9 @@ Now, see that have two strings with the same name?
 Edit this two strings with the APKs name that u want to put!
 
 ### Step Two: Modifying options and icons
+
+In first, u will open the **assets/options.ini** from your APK!
+
+Then, you will edit it, like this:
+
+
