@@ -212,3 +212,5 @@ Do the same thing in this codes:
 
 Console_Uninit; Console_Output; Console_OutputLine; Console_Clear; Console_GetInputNumber; Console_GetInput; Console_PopInput; Console_SetVisible; Console_IsVisible; Console_SetStatusText; Console_SetStatusNumber; Console_SetStatusRatio; Console_Init
 
+## Mobile Stuff (Controls)
+
