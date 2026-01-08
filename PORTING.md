@@ -204,7 +204,7 @@ In first, do what this gif is making:
 
 It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
 
-### Console_Init Error Fix (Just make it if the GMS is 2022.9 or minus) 
+### Console_Init Error Fix (just make it if the GMS is 2022.9 or minus) 
 
 In first, again, do what this giif is making: 
 
