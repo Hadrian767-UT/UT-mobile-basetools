@@ -210,6 +210,16 @@ It need to have done because if u don't do it, the **locale/** folder don't will
 
 Use your favorite notepad (i recommend to u use [Notepad++](https://notepad-plus-plus.org/downloads/)!)
 
+Open these files in the notepad: 
+
+<img width="107" height="157" alt="Captura de Tela (71)" src="https://github.com/user-attachments/assets/6c343699-7ce3-4bfe-914f-c51c6efa5409" />
+
+(if there's other language name in **locale/** what have these files, do it to these folder too)
+
+With the files opened, you will remove the **./** from the start of the paths, like this:  
+
+![2026-01-08-08-46-47](https://github.com/user-attachments/assets/e90887df-220f-4c2e-bd8d-57bbd38e37b6)
+
 ### Console_Init Error Fix (just make it if the GMS is 2022.9 or minus) 
 
 In first, again, do what this giif is making: 
