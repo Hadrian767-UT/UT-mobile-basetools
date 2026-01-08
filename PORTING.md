@@ -190,7 +190,7 @@ And wait the sprites being imported.
 
 In most of the fangames, the texture size (8192x8192) make the fonts and sprites being ugly (only in 4GB RAM or minus, making too the game just crash in 2GB RAM in some cases), so we make it for correct it.
 
-##### And the sounds?
+#### And the sounds?
 
 About the sounds, some games have an exorbitant size of data.win because of the sounds .wav, so we make the conversion to .ogg for correct it.
 
