@@ -122,7 +122,7 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ##### Fonts
 
-Click in **Scripts → Resource Exporters → ExportAllFonts.csx**
+Click in **Scripts → Resource Exporters → ExportFonts.csx**
 
 Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
 
@@ -241,3 +241,17 @@ Click in **Scripts → Resource Importers → ImportAllSounds.csx**
 Select the **mobile-controls-location/Sounds**
 
 Click **Yes** for all, minus the two last (First: IsDecompressedOnLoad; Second: audiogroup name)
+
+Click in **Ok**
+
+And wait the sounds be imported.
+
+#### Fonts
+
+Click in **Scripts → Resource Importers → ImportFonts.csx**
+
+Select the **mobile-controls-location/MobileKey/Fonts (TianQi Buttons)**
+
+(TianQi is the chinese that create the buttons style from my MK, credit him if you will upload your port)
+
+And wait the fonts being imported.
