@@ -43,20 +43,13 @@ And click in `Unpack`!
 
 ## SFX
 
-Open your .exe (clicking `Yes` to admin permission), and open File Explorer.
-
-In File Explorer, go to `C:/Users/your-user/AppData/Local/Temp`
-
-Now, filter to `Modification date`
-
-Now, go to newest folder (or the second, idk if you opened something after it)
-
-Now, open it.
-
-See that this folder have all the things that u need? (data.win, original .exe, etc)?
-
-Copy this folder to your Downloads
-
+Open your .exe (clicking `Yes` to admin permission), and open File Explorer.<br />
+In File Explorer, go to `C:/Users/your-user/AppData/Local/Temp`<br />
+Now, filter to `Modification date`<br />
+Now, go to newest folder (or the second, idk if you opened something after it)<br />
+Now, open it.<br />
+See that this folder have all the things that u need? (data.win, original .exe, etc)?<br />
+Copy this folder to your Downloads<br />
 And now, u can close the game.
 
 ## Enigma Protector
