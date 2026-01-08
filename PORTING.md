@@ -421,7 +421,7 @@ In first, go to the folder `res/` from the APK<br />
 See? There two different types of this folder<br />
 In some APKs, the **res/** folder will look like this (more organized):<br />
 ![Screenshot_20260108_162354_MT Manager](https://github.com/user-attachments/assets/bc6c2c94-9e03-42e9-8539-544c9e0ff02a)<br />
-But in the others, will look like this (like the folder has been obfuscated):<br />
+But in the others, will look like this (or the same that here or with different name files but with the same structure) (like the folder has been obfuscated):<br />
 ![Screenshot_20260108_162404_MT Manager](https://github.com/user-attachments/assets/b5ffd030-4825-444f-9401-5b99867cd426)<br />
 But don't worry! For all the two there's an way to put your icons!
 
@@ -434,4 +434,7 @@ Just copy the files (**adaptive_icon** and **adaptive_bg**) to all the folders t
 In **MT Manager**, clicking in the APK that u are using, click in the icon<br />
 After this, click in **OK**<br />
 Now, u have an .zip with all icons from the APK in the same directory that the APK is!<br />
-Click in the .zip (named **APK-NAME_icon.zip**)
+Click in the .zip (named **APK-NAME_icon.zip**)<br />
+After it, click in the `res/` folder
+Delete ALL files (.xml and the .png that have just an icon that fills all the image), leaving here just the .png that are like the **adaptive_icon** and **adaptive_bg**
+
