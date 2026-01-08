@@ -413,8 +413,8 @@ inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900)
 ```
 # Now, we will do the things in phone!
 
-In first, download [MT Manager](https://pan.huang1111.cn/s/Nkv88T1)
+In first, download [MT Manager](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/MT%20Manager.apk)
 
-And after, download the [APKs for porting](https://pan.huang1111.cn/s/E7X4lTb)
+And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs)
 
 
