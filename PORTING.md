@@ -435,5 +435,8 @@ In **MT Manager**, clicking in the APK that u are using, click in the icon<br />
 After this, click in **OK**<br />
 Now, u have an .zip with all icons from the APK in the same directory that the APK is!<br />
 Click in the .zip (named **APK-NAME_icon.zip**)<br />
-After it, click in the `res/` folder and delete ALL files (.xml and the .png that have just an icon that fills all the image), leaving here just the .png that are the **adaptive_icon** and **adaptive_bg**
-
+After it, click in the `res/` folder and delete ALL files (.xml and the .png that have just an icon that fills all the image), leaving here just the .png that are the **adaptive_icon** and **adaptive_bg**<br />
+In APK directory, create an folder named "icons" (or other name that u want to use)
+Copy the files **adaptive_icon** and **adaptive_bg** to this folder and copy these files more five times
+Now, replace the files names to the name files of the .zip, replacing the **adaptive_icon** normal names to the obfuscated names and the same to the **adaptive_bg**.
+After it done, put the modified .pngs in `res/` location of the APK.
