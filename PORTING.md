@@ -72,7 +72,7 @@ And click in `Unpack`!
 
 Open your .exe (clicking `Yes` to admin permission), and open File Explorer.
 
-In File Explorer, go to `C:\Users\your-user\AppData\Local\Temp`
+In File Explorer, go to `C:<br />Users<br />your-user<br />AppData<br />Local<br />Temp`
 
 Now, filter to `Modification date`
 
@@ -231,17 +231,17 @@ In first, again, do what this gif is making:
 Do the same thing in this codes:
 
 > Console_Uninit;<br />
-> Console_Output;\\
-> Console_OutputLine;\\
-> Console_Clear;\\
-> Console_GetInputNumber;\\
-> Console_GetInput;\\
-> Console_PopInput;\\
-> Console_SetVisible;\\
-> Console_IsVisible;\\
-> Console_SetStatusText;\\
-> Console_SetStatusNumber;\\
-> Console_SetStatusRatio;\\
+> Console_Output;<br /><br />
+> Console_OutputLine;<br /><br />
+> Console_Clear;<br /><br />
+> Console_GetInputNumber;<br /><br />
+> Console_GetInput;<br /><br />
+> Console_PopInput;<br /><br />
+> Console_SetVisible;<br /><br />
+> Console_IsVisible;<br /><br />
+> Console_SetStatusText;<br /><br />
+> Console_SetStatusNumber;<br /><br />
+> Console_SetStatusRatio;<br /><br />
 > Console_Init
 
 ## Step Three: Mobile Stuff (Controls)
