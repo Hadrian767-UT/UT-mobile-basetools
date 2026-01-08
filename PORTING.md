@@ -319,5 +319,5 @@ Click in **Yes**
 Search **world** in search bar, and click in the code
 
 ```
-gmlgml_Object_world_Other_2
+gml_Object_world_Other_2
 ```
