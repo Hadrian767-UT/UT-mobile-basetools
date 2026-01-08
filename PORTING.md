@@ -190,3 +190,9 @@ In most of the fangames, the texture size (8192x8192) make the fonts and sprites
 
 About the sounds, some games have an exorbitant size of data.win because of the sounds .wav, so we make the conversion to .ogg for correct it.
 
+## Step Two: Mobile Corrections
+
+In first, do what this gif is making: 
+
+![2026-01-07 22-50-59](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)
+
