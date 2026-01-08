@@ -130,7 +130,7 @@ And wait the magic happens.
 
 ##### Sounds (skip this part if all of your sounds is .ogg)
 
-###### Exportation
+##### Exportation
 
 Click in **Scripts → Resource Exporters → ExportAllSounds.csx**
 
@@ -156,7 +156,7 @@ And wait the magic happens for the third time. (oh shit, i can't take any more m
 
 The sprites don't be need to be exported. I will explain it later.
 
-###### Importation
+##### Importation
 
 ##### Fonts
 
