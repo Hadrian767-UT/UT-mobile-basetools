@@ -190,7 +190,11 @@ Click in `Scripts → Resource Importers → ImportGraphics.csx`<br />
 Select the `mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)`<br />
 (pls, don't use the sprite in `Sprites` location, is my sprite and i didn't authorize nobody to use it.)<br />
 Click in `Yes`<br />
-Click in `Ok` when it finish.
+Click in `Ok` when it finish.<br />
+After it, search **spr_mobilekey** in search tab<br />
+Click in triangle in tab `Sprites` in `Data` (tab in the left of the screen)<br />
+Select the **spr_mobilekey** sprite<br />
+And modify the **Origin** (x = 32, y = 32)
 
 #### Sounds
 
