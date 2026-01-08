@@ -332,7 +332,7 @@ Select the **mobile-controls-location/Dual Clicker NEW/obj_cc**
 
 Click in **Yes**
 
-**COOL THINGS:** If you want to activate DEBUG button, just modify the variable 
+**COOL THINGS:** If you want to activate DEBUG button, just modify the variable **global.debug_legally**, change this value of **0** to **1**
 
 # Now, we will make the controllers appear
 
