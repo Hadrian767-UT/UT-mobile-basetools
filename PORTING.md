@@ -385,4 +385,7 @@ Then, you will edit it, like this:<br />
 #### What is your-apk-code?
 
 Is basically the numbers marked in the photo below:<br />
-![Screenshot_20260108_095011_MT Manager](https://github.com/user-attachments/assets/e55d7428-be84-4873-b8a2-6dda6872f9c7)
+![Screenshot_20260108_095011_MT Manager](https://github.com/user-attachments/assets/e55d7428-be84-4873-b8a2-6dda6872f9c7)<br />
+First Number: MajorVersion<br />
+Second Number: MinorVersion<br />
+Third Number: BuildVersion<br />
