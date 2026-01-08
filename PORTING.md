@@ -424,3 +424,7 @@ In some APKs, the **res/** folder will look like this (more organized):<br />
 But in the others, will look like this (like the folder has been obfuscated):<br />
 ![Screenshot_20260108_162404_MT Manager](https://github.com/user-attachments/assets/b5ffd030-4825-444f-9401-5b99867cd426)<br />
 But don't worry! For all the two there's an way to put your icons!
+
+##### Normal method
+
+Just copy the files (**adaptive_icon** and **adaptive_bg**) to all the folders that have the name **-v26** in the last characters.
