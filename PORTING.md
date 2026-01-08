@@ -475,4 +475,4 @@ In first, u will open the **assets/options.ini** from your APK!
 
 Then, you will edit it, like this:
 
-
+![Adobe Express - Screen_Recording_20260108_121138_MT Manager](https://github.com/user-attachments/assets/e67c8d8e-8335-4ef6-97ab-b7efe0d87449)
