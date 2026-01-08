@@ -198,3 +198,4 @@ In first, do what this gif is making:
 
 (pls don't care about the Batch WAV to OGG Converter screen in keyboard iimage, it was an thing that i forgot to disable 😭)
 
+It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
