@@ -116,3 +116,12 @@ In first, you will remove the shaders, like here:
 
 And make it with ALL shaders avaliable in the game, and making the same thing with all codes showed in "Find all references" screen.
 
+### Fonts, Sounds and  Sprites
+
+#### Fonts
+
+Click in "Scripts -> Resource Exporters -> ExportAllFonts.csx"
+
+Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located)
+
+And wait the magic happens.
