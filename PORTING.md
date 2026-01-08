@@ -122,7 +122,7 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ##### Fonts
 
-Click in "Scripts → Resource Exporters → ExportAllFonts.csx"
+Click in **Scripts → Resource Exporters → ExportAllFonts.csx**
 
 Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
 
@@ -132,7 +132,7 @@ And wait the magic happens.
 
 ###### Exportation
 
-Click in "Scripts → Resource Exporters → ExportAllSounds.csx"
+Click in **Scripts → Resource Exporters → ExportAllSounds.csx**
 
 Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)
 
@@ -144,11 +144,11 @@ Download the [Batch WAV to OGG Converter](https://www.ascensiongamedev.com/files
 
 After downloaded, extract it and run the .exe
 
-Click in "Browse"
+Click in **Browse**
 
 Select the folder that u put the sounds
 
-And click in "Convert"
+And click in **Convert**
 
 And wait the magic happens for the third time. (oh shit, i can't take any more magics 😭)
 
