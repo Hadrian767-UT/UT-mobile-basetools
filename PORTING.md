@@ -82,5 +82,6 @@ Copy this folder to your Downloads
 
 And now, u can close the game.
 
+But now, if your case is Enigma Protector, i feel so much in say this, but i don't know how to decrypt this, sorry
 
-
+This even has how decrypt, but is very hard 😭
