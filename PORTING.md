@@ -390,7 +390,7 @@ First Number: MajorVersion<br />
 Second Number: MinorVersion<br />
 Third Number: BuildVersion<br />
 
-### Step Three: Creating modified icons
+### Step Three: Creating modified icons (not mandatory)
 
 #### Dumping the original icon
 
@@ -421,4 +421,5 @@ See? There two different types of this folder<br />
 In some APKs, the **res/** folder will look like this (more organized):<br />
 ![Screenshot_20260108_162354_MT Manager](https://github.com/user-attachments/assets/bc6c2c94-9e03-42e9-8539-544c9e0ff02a)<br />
 But in the others, will look like this (like the folder has been obscured):<br />
-![Screenshot_20260108_162404_MT Manager](https://github.com/user-attachments/assets/b5ffd030-4825-444f-9401-5b99867cd426)
+![Screenshot_20260108_162404_MT Manager](https://github.com/user-attachments/assets/b5ffd030-4825-444f-9401-5b99867cd426)<br />
+But don't worry! For all the two there's an way to put your icons!
