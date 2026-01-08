@@ -321,3 +321,15 @@ Search **world** in search bar, and click in the code
 ```
 gml_Object_world_Other_2
 ```
+
+And above the line 
+
+```
+instance_create_depth(0, 0, 0, closed_captions);
+```
+
+Add:
+
+```
+instance_create_depth(0, 0, -15998, obj_cc);
+```
