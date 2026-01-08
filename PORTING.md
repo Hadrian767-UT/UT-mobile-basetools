@@ -265,3 +265,23 @@ Select the **mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)*
 Click in **Yes**
 
 And wait the codes being imported.
+
+### Joystick
+
+#### Sprites
+
+Click in **Scripts → Resource Importers → ImportGraphics.csx**
+
+Select the **mobile-controls-location/Joystick/Sprites**
+
+Click in **Yes**
+
+Click in **Ok** when it finish.
+
+#### Fonts
+
+Click in **Scripts → Resource Importers → ImportFonts.csx**
+
+Select the **mobile-controls-location/Joystick/Fonts**
+
+And wait the fonts being imported.
