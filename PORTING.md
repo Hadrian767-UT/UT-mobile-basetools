@@ -204,7 +204,7 @@ In first, do what this gif is making:
 
 It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
 
-### Console_Init Error Fix
+### Console_Init Error Fix (Just make it if the GMS is 2022.9 or mminus) 
 
 In first, again, do what this giif is making: 
 
@@ -313,3 +313,11 @@ Click in **Scripts → Resource Importers → ImportGML.csx**
 Select the **mobile-controls-location/Dual Clicker NEW/obj_cc**
 
 Click in **Yes**
+
+# Now, we will make the controllers appear
+
+Search **world** in search bar, and click in the code
+
+```
+gmlgml_Object_world_Other_2
+```
