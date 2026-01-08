@@ -1,6 +1,4 @@
-# First impressions
-
-## Downloads
+# Downloads
 
 In first, you need to have an computer.
 
@@ -56,7 +54,9 @@ Now, if the .exe is like this:
 
 With all the files being the .exe name, Enigma Protector!
 
-If your case is Enigma VirtualBox, download [EnigmaVBUnpacker](https://mega.nz/file/slJknLSR#ZUOr_vDukmfVuUS-CThF5sIxrQxaY_N3dZeVEd662qQ)!
+## Enigma VirtualBox
+
+Download [EnigmaVBUnpacker](https://mega.nz/file/slJknLSR#ZUOr_vDukmfVuUS-CThF5sIxrQxaY_N3dZeVEd662qQ)!
 
 You will have an screen like this: 
 
@@ -68,7 +68,9 @@ Select your .exe
 
 And click in "Unpack"!
 
-Now, if your case is SFX, open your .exe (clicking "Yes" to admin permission), and open File Explorer.
+## SFX
+
+Open your .exe (clicking "Yes" to admin permission), and open File Explorer.
 
 In File Explorer, go to "C:\Users\your-user\AppData\Local\Temp"
 
@@ -83,6 +85,8 @@ See that this folder have all the things that u need? (data.win, original .exe, 
 Copy this folder to your Downloads
 
 And now, u can close the game.
+
+## Enigma Protector
 
 But now, if your case is Enigma Protector, i feel so much in say this, but i don't know how to decrypt this, sorry
 
