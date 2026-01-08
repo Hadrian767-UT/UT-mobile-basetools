@@ -255,3 +255,13 @@ Select the **mobile-controls-location/MobileKey/Fonts (TianQi Buttons)**
 (TianQi is the chinese that create the buttons style from my MK, credit him if you will upload your port)
 
 And wait the fonts being imported.
+
+#### Codes
+
+Click in **Scripts → Resource Importers → ImportGML.csx**
+
+Select the **mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)**
+
+Click in **Yes**
+
+And wait the codes being imported.
