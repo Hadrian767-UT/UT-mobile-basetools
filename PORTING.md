@@ -455,3 +455,4 @@ Make it like this gif is making:
 
 ![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
 
+**IMPORTANT THINS THAT I FORGOT TO MENTION:** When you are cloning the APK, make sure that the option **Use old cloning method** is enabled!
