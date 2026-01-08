@@ -118,7 +118,7 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ### Fonts, Sounds and  Sprites
 
-#### Exportation
+### Exportation
 
 ##### Fonts
 
@@ -156,7 +156,7 @@ And wait the magic happens for the third time. (oh shit, i can't take any more m
 
 The sprites don't be need to be exported. I will explain it later.
 
-##### Importation
+#### Importation
 
 ##### Fonts
 
