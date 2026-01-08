@@ -333,3 +333,42 @@ Add:
 ```
 instance_create_depth(0, 0, -15998, obj_cc);
 ```
+
+# Now, we will make the closed_captions always visible! (or almost visible) 
+
+Searching **closed_captions**, in the code:
+
+```
+gml_Object_closed_captions_Create_0;
+```
+
+in the line (for 2.3 or more)
+
+```
+enum UnknownEnum
+{
+    Value_m100 = -100
+}
+```
+
+or in the line (for 2.2.2.302 or minus)
+
+```
+depth = 100;
+```
+
+We will switch Value_m100 (2.3 or +) or the depth (2.2.2.302 or -) for
+
+```
+2.3+:
+
+enum UnknownEnum
+{
+    Value_m100 = -15800
+}
+
+2.2.2.302-:
+
+depth = -15800;
+```
+
