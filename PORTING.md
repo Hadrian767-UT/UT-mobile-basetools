@@ -118,7 +118,9 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ### Fonts, Sounds and  Sprites
 
-#### Fonts
+#### Exportation
+
+##### Fonts
 
 Click in "Scripts -> Resource Exporters -> ExportAllFonts.csx"
 
@@ -126,9 +128,9 @@ Select the folder that you will put the fonts (i recommend that u create an fold
 
 And wait the magic happens.
 
-#### Sounds (skip this part if all of your sounds is .ogg)
+##### Sounds (skip this part if all of your sounds is .ogg)
 
-##### Exportation
+###### Exportation
 
 Click in "Scripts -> Resource Exporters -> ExportAllSounds.csx"
 
@@ -136,7 +138,7 @@ Select the folder that you will put the sounds (i recommend that u create an fol
 
 And wait the magic happens again.
 
-##### Conversion
+###### Conversion
 
 Download the [Batch WAV to OGG Converter](https://www.ascensiongamedev.com/files/file/15-batch-wav-to-ogg-converter/)
 
@@ -149,3 +151,7 @@ Select the folder that u put the sounds
 And click in "Convert"
 
 And wait the magic happens for the third time. (oh shit, i can't take any more magics 😭)
+
+##### Sprites
+
+The sprites don't be need to be exported. I will explain it later.
