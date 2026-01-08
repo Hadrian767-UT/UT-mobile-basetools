@@ -108,6 +108,8 @@ Well, with all done, lets tro the steps.
 
 ## Step One: Optimization (not mandatory)
 
+### Shaders
+
 In first, you will remove the shaders, like here:
 
 ![2026-01-07 21-45-36](https://github.com/user-attachments/assets/4d80830c-c3d6-46cf-a667-60cce53a5a00)
