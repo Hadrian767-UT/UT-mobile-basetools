@@ -254,17 +254,21 @@ Click in `Yes`<br />
 # Now, we will make the controllers appear
 
 Search `world` in search bar, and click in the code<br />
+
 ```
 gml_Object_world_Other_2
-```<br />
+```
 And above the line<br />
+
 ```
 instance_create_depth(0, 0, 0, closed_captions);
-```<br />
-Add:<br />
+```
+
+Add:
+
 ```
 instance_create_depth(0, 0, -15998, obj_cc);
-```<br />
+```
 
 # Now, we will make the closed_captions always visible! (or almost visible) 
 
