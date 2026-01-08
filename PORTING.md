@@ -138,7 +138,7 @@ Select the folder that you will put the sounds (i recommend that u create an fol
 
 And wait the magic happens again.
 
-**WARNING:** If you have any .ogg file in working_directory, cut these files to the sounds folder!
+> **WARNING:** If you have any .ogg file in working_directory, cut these files to the sounds folder!
 
 ###### Conversion
 
