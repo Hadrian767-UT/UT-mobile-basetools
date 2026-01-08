@@ -437,10 +437,12 @@ And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-m
 
 After download and install **MT Manager**, create an folder in any local with any name
 
+## Moving files
+
 Copy the **data.win**, the **locale/** folder and the APK for the GMS of you data.win.
 
 Rename the **data.win** to **game.droid**
 
 And copy your **game.droid** and the **locale/** folder to the **assets/** folder from the APK that u are using.
 
-
+## Modifying the APK
