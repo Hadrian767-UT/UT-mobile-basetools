@@ -306,3 +306,10 @@ Select the **mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx*
 
 Click in **Yes** (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
 
+### Dual Clicker
+
+Click in **Scripts → Resource Importers → ImportGML.csx**
+
+Select the **mobile-controls-location/Dual Clicker NEW/obj_cc**
+
+Click in **Yes**
