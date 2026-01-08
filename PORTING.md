@@ -419,6 +419,6 @@ Save it with the same name (**adaptive_icon.png**)
 In first, go to the folder `res/` from the APK<br />
 See? There two different types of this folder<br />
 In some APKs, the **res/** folder will look like this (more organized):<br />
-<img width="162" height="162" alt="adaptive_icon" src="https://github.com/user-attachments/assets/7a13c20e-15fe-4e32-b1a6-cc7acebc083f" /><br />
+![Screenshot_20260108_162354_MT Manager](https://github.com/user-attachments/assets/bc6c2c94-9e03-42e9-8539-544c9e0ff02a)
 But in the others, will look like this (like the folder has been obscured):<br />
-<img width="162" height="162" alt="adaptive_icon" src="https://github.com/user-attachments/assets/8728287c-b00f-4c12-b75d-f7ae7171b586" /><br />
+![Screenshot_20260108_162404_MT Manager](https://github.com/user-attachments/assets/b5ffd030-4825-444f-9401-5b99867cd426)
