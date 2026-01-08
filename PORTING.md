@@ -230,7 +230,7 @@ In first, again, do what this gif is making:
 
 Do the same thing in this codes:
 
-> Console_Uninit;\\
+> Console_Uninit;<br />
 > Console_Output;\\
 > Console_OutputLine;\\
 > Console_Clear;\\
