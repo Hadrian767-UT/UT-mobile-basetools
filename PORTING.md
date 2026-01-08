@@ -96,4 +96,4 @@ If u have some error in load, open an [issue](https://github.com/UnderminersTeam
 
 Well, with all done, lets tro the steps.
 
-## Step One: Optimization (not mandatory)
+# Step One: Optimization (not mandatory)
