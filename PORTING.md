@@ -196,6 +196,8 @@ About the sounds, some games have an exorbitant size of data.win because of the 
 
 ### Locale Fix
 
+#### Editing scripts
+
 In first, do what this gif is making: 
 
 ![2026-01-07 22-50-59](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)
@@ -203,6 +205,10 @@ In first, do what this gif is making:
 (pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)
 
 It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
+
+#### Editing the .txt files inside the folder
+
+Use your favorite notepad (i recommend to u use [Notepad++](https://notepad-plus-plus.org/downloads/)!)
 
 ### Console_Init Error Fix (just make it if the GMS is 2022.9 or minus) 
 
@@ -415,9 +421,12 @@ inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900)
 
 In first, download [MT Manager](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/MT%20Manager.apk)
 
-And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs) (download the apk that your data.win use, if any APK is missing, write in issues)
+And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs) (download the apk that your data.win use, if any APK is missing, write in issues, sending your data.win and the missing GMS APK)
 
-After download and install MT Manager, create an folder in any local with any name
+After download and install **MT Manager**, create an folder in any local with any name
 
-Copy the data.win, the locale folder and the APK for the GMS of you data.win.
+Copy the **data.win**, the **locale/** folder and the APK for the GMS of you data.win.
+
+Rename the **data.win** to **game.droid**
+
 
