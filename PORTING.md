@@ -196,6 +196,6 @@ In first, do what this gif is making:
 
 ![2026-01-07 22-50-59](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)
 
-(pls don't care about the Batch WAV to OGG Converter screen in keyboard iimage, it was an thing that i forgot to disable 😭)
+(pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)
 
 It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
