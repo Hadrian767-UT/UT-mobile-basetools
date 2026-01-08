@@ -201,3 +201,14 @@ In first, do what this gif is making:
 (pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)
 
 It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
+
+### Console_Init Error Fix
+
+In first, again, do what this giif is making: 
+
+![2026-01-07 23-05-56](https://github.com/user-attachments/assets/49598b0b-eebf-489c-92d3-9c425a7622cc)
+
+Do the same thing in this codes:
+
+Console_Uninit; Console_Output; Console_OutputLine; Console_Clear; Console_GetInputNumber; Console_GetInput; Console_PopInput; Console_SetVisible; Console_IsVisible; Console_SetStatusText; Console_SetStatusNumber; Console_SetStatusRatio; Console_Init
+
