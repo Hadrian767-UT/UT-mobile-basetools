@@ -155,3 +155,38 @@ And wait the magic happens for the third time. (oh shit, i can't take any more m
 ##### Sprites
 
 The sprites don't be need to be exported. I will explain it later.
+
+###### Importation
+
+#### Fonts
+
+Click in **Scripts → Resource Importers → ImportAllFonts.csx**
+
+Select the folder that u put the fonts
+
+And wait the fonts being imported.
+
+#### Sounds
+
+Click in **Scripts → Resource Importers → ImportAllSounds.csx**
+
+Select the folder that u put the sounds
+
+And wait the sounds being imported.
+
+#### Sprites
+
+Click in **Scripts → Resource Importers → NewTextureRepacker.csx**
+
+Click in **No** for the question
+
+And wait the sprites being imported.
+
+#### Why i have to do this?
+
+In most of the fangames, the texture size (8192x8192) make the fonts and sprites being ugly, so we make it for correct it.
+
+##### And the sounds?
+
+About the sounds, some games have an exorbitant size of data.win because of the sounds .wav, so we make the conversion to .ogg for correct it.
+
