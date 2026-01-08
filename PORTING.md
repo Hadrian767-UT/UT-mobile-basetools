@@ -172,6 +172,8 @@ Click in **Scripts → Resource Importers → ImportAllSounds.csx**
 
 Select the folder that u put the sounds
 
+Click **Yes** for all, minus the last (IsDecompressedOnLoad)
+
 And wait the sounds being imported.
 
 ##### Sprites
@@ -220,7 +222,9 @@ Extract it
 
 ### MobileKey
 
-Click in **Scripts → Resource Importers → ImportGMLCode.csx**
+#### Sprites
+
+Click in **Scripts → Resource Importers → ImportGraphics.csx**
 
 Select the **mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)**
 
@@ -230,4 +234,10 @@ Click in **Yes**
 
 Click in **Ok** when it finish.
 
+#### Sounds
 
+Click in **Scripts → Resource Importers → ImportAllSounds.csx**
+
+Select the **mobile-controls-location/Sounds**
+
+Click **Yes** for all, minus the two last (First: IsDecompressedOnLoad; Second: audiogroup name)
