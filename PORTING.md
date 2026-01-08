@@ -332,6 +332,8 @@ Select the **mobile-controls-location/Dual Clicker NEW/obj_cc**
 
 Click in **Yes**
 
+**COOL THINGS:** If you want to activate DEBUG button, just modify the variable 
+
 # Now, we will make the controllers appear
 
 Search **world** in search bar, and click in the code
@@ -465,4 +467,6 @@ Clicking in **Search resource value**, search the APK actual name.
 
 Now, see that have two strings with the same name?
 
-Edit this two strings withh  the APKs name that u want to put!
+Edit this two strings with the APKs name that u want to put!
+
+### Step Two: Modifying options and icons
