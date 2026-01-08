@@ -435,5 +435,5 @@ In **MT Manager**, clicking in the APK that u are using, click in the icon<br />
 After this, click in **OK**<br />
 Now, u have an .zip with all icons from the APK in the same directory that the APK is!<br />
 Click in the .zip (named **APK-NAME_icon.zip**)<br />
-After it, click in the `res/` folder and delete ALL files (.xml and the .png that have just an icon that fills all the image), leaving here just the .png that are like the **adaptive_icon** and **adaptive_bg**
+After it, click in the `res/` folder and delete ALL files (.xml and the .png that have just an icon that fills all the image), leaving here just the .png that are the **adaptive_icon** and **adaptive_bg**
 
