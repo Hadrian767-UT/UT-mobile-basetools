@@ -376,7 +376,7 @@ Clicking in `Search resource value`, search the APK actual name.<br />
 Now, see that have two strings with the same name?<br />
 Edit this two strings with the APKs name that u want to put!
 
-### Step Two: Modifying options and icons
+### Step Two: Modifying options
 
 In first, u will open the `assets/options.ini` from your APK!<br />
 Then, you will edit it, like this:<br />
@@ -389,3 +389,5 @@ Is basically the numbers marked in the photo below:<br />
 First Number: MajorVersion<br />
 Second Number: MinorVersion<br />
 Third Number: BuildVersion<br />
+
+### Step Three: Creating modified icons
