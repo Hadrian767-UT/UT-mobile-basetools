@@ -349,18 +349,14 @@ inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900)
 ```
 # Now, we will do the things in phone!
 
-In first, download [MT Manager](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/MT%20Manager.apk)
-
-And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs) (download the apk that your data.win use, if any APK is missing, write in issues, sending your data.win and the missing GMS APK)
-
+In first, download [MT Manager](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/MT%20Manager.apk)<br />
+And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs) (download the apk that your data.win use, if any APK is missing, write in issues, sending your data.win and the missing GMS APK)<br />
 After download and install `MT Manager`, create an folder in any local with any name
 
 ## Moving files
 
-Copy the `data.win`, the `locale/` folder and the APK for the GMS of you data.win.
-
-Rename the `data.win` to `game.droid`
-
+Copy the `data.win`, the `locale/` folder and the APK for the GMS of you data.win.<br />
+Rename the `data.win` to `game.droid`<br />
 And copy your `game.droid` and the `locale/` folder to the `assets/` folder from the APK that u are using.
 
 ## Modifying the APK
@@ -369,28 +365,19 @@ Now, u will learn `how to modifying an existent APK like it if yours`!
 
 ### Step One: Cloning your APK
 
-Make it like this gif is making:
-
-![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
-
-`IMPORTANT THING THAT I FORGOT TO MENTION:` When you are cloning the APK, make sure that the option `Use old cloning method` is enabled!
-
-If u don't make this, your APK will crash when u run it (there's a way to correct it with the option disabled, but enable it is better)
-
-Now, open the `resource.arsc` file in your APK!
-
-Clicking in `Search resource value`, search the APK actual name.
-
-Now, see that have two strings with the same name?
-
+Make it like this gif is making:<br />
+![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)<br />
+`IMPORTANT THING THAT I FORGOT TO MENTION:` When you are cloning the APK, make sure that the option `Use old cloning method` is enabled!<br />
+If u don't make this, your APK will crash when u run it (there's a way to correct it with the option disabled, but enable it is better)<br />
+Now, open the `resource.arsc` file in your APK!<br />
+Clicking in `Search resource value`, search the APK actual name.<br />
+Now, see that have two strings with the same name?<br />
 Edit this two strings with the APKs name that u want to put!
 
 ### Step Two: Modifying options and icons
 
-In first, u will open the `assets/options.ini` from your APK!
-
-Then, you will edit it, like this:
-
+In first, u will open the `assets/options.ini` from your APK!<br />
+Then, you will edit it, like this:<br />
 ![Adobe Express - Screen_Recording_20260108_121138_MT Manager](https://github.com/user-attachments/assets/e67c8d8e-8335-4ef6-97ab-b7efe0d87449)
 
 #### What is your-apk-code?
