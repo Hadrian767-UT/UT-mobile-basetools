@@ -192,6 +192,8 @@ About the sounds, some games have an exorbitant size of data.win because of the 
 
 ## Step Two: Mobile Corrections
 
+### Locale Fix
+
 In first, do what this gif is making: 
 
 ![2026-01-07 22-50-59](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)
