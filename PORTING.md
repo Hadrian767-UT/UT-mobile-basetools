@@ -158,7 +158,7 @@ The sprites don't be need to be exported. I will explain it later.
 
 ###### Importation
 
-#### Fonts
+#### #Fonts
 
 Click in **Scripts → Resource Importers → ImportAllFonts.csx**
 
@@ -166,7 +166,7 @@ Select the folder that u put the fonts
 
 And wait the fonts being imported.
 
-#### Sounds
+##### Sounds
 
 Click in **Scripts → Resource Importers → ImportAllSounds.csx**
 
@@ -174,7 +174,7 @@ Select the folder that u put the sounds
 
 And wait the sounds being imported.
 
-#### Sprites
+##### Sprites
 
 Click in **Scripts → Resource Importers → NewTextureRepacker.csx**
 
