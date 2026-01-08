@@ -222,7 +222,7 @@ With the files opened, you will remove the **./** from the start of the paths, l
 
 ### Console_Init Error Fix (just make it if the GMS is 2022.9 or minus) 
 
-In first, again, do what this giif is making: 
+In first, again, do what this gif is making: 
 
 ![2026-01-07 23-05-56](https://github.com/user-attachments/assets/49598b0b-eebf-489c-92d3-9c425a7622cc)
 
