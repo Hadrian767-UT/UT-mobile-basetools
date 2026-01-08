@@ -428,3 +428,10 @@ But don't worry! For all the two there's an way to put your icons!
 ##### Normal method
 
 Just copy the files (**adaptive_icon** and **adaptive_bg**) to all the folders that have the name "**-v26**" in the last characters.
+
+##### Obfuscated method
+
+In **MT Manager**, clicking in the APK that u are using, click in the icon<br />
+After this, click in **OK**
+Now, u have an .zip with all icons from the APK in the same directory that the APK is!
+Click in the .zip (named **APK-NAME_icon.zip**)
