@@ -410,6 +410,6 @@ Select **Image**<br />
 Select your dumped .ico<br />
 And put the .ico in center, like this icon that i made:<br />
 <img width="162" height="162" alt="adaptive_icon" src="https://github.com/user-attachments/assets/d2fdcabf-9fb4-4efc-8039-bafc776dd4cc" /><br />
-Click in **Save**
-After it, click in **Save as**
+Click in **Save**<br />
+After it, click in **Save as**<br />
 Save it with the same name (**adaptive_icon.png**)
