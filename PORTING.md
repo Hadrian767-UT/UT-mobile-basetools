@@ -391,3 +391,5 @@ Second Number: MinorVersion<br />
 Third Number: BuildVersion<br />
 
 ### Step Three: Creating modified icons
+
+In first, in your browser, enter in [Pixlr](https://pixlr.com)
