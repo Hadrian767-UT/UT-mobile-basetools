@@ -464,3 +464,5 @@ Now, open the **resource.arsc** file in your APK!
 Clicking in **Search resource value**, search the APK actual name.
 
 Now, see that have two strings with the same name?
+
+Edit this two strings withh  the APKs name that u want to put!
