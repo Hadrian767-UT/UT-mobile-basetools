@@ -395,4 +395,4 @@ enum UnknownEnum
 inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(UnknownEnum.Value_m200) + "}" + text + "&";
 ```
 
-we will switch by:
+we will switch for:
