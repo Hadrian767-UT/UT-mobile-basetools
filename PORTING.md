@@ -394,5 +394,5 @@ Third Number: BuildVersion<br />
 
 In first, in your browser, enter in [Pixlr](https://pixlr.com)<br />
 Open the **AI Photo Editor**<br />
-Click in the blue button with the **"+"**<br />
+Click in the blue button with the **"+"** <br />
 Select the **adaptive_icon.png**
