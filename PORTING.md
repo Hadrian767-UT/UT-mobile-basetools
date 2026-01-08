@@ -392,4 +392,7 @@ Third Number: BuildVersion<br />
 
 ### Step Three: Creating modified icons
 
-In first, in your browser, enter in [Pixlr](https://pixlr.com)
+In first, in your browser, enter in [Pixlr](https://pixlr.com)<br />
+Open the **AI Photo Editor**<br />
+Click in the blue button with the **"+"**
+Select the **adaptive_icon.png**
