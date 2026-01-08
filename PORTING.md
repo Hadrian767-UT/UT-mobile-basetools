@@ -138,6 +138,8 @@ Select the folder that you will put the sounds (i recommend that u create an fol
 
 And wait the magic happens again.
 
+**WARNING:** If you have any .ogg file in working_directory, cut these files to the sounds folder!
+
 ###### Conversion
 
 Download the [Batch WAV to OGG Converter](https://www.ascensiongamedev.com/files/file/15-batch-wav-to-ogg-converter/)
@@ -438,5 +440,7 @@ After download and install **MT Manager**, create an folder in any local with an
 Copy the **data.win**, the **locale/** folder and the APK for the GMS of you data.win.
 
 Rename the **data.win** to **game.droid**
+
+And copy your **game.droid** and the **locale/** folder to the **assets/** folder from the APK that u are using.
 
 
