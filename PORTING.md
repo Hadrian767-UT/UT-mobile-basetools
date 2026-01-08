@@ -1,5 +1,7 @@
 # First impressions
 
+## Downloads
+
 In first, you need to have an computer.
 
 If you don't have, this tutorial is not for u (yet), sorry.
@@ -23,6 +25,8 @@ Open UndertaleModTool
 You will have an screen like this:
 
 <img width="1920" height="1037" alt="utmt lol" src="https://github.com/user-attachments/assets/8db432dc-fa42-4894-9cf7-6b51dc90fa6c" />
+
+## Encrypted executables
 
 WARNING: If you only have an .exe (even the game being GameMaker), you game maybe is protected!
 
@@ -86,6 +90,8 @@ This even has how decrypt, but is very hard 😭
 
 Now, backing again for porting methods!
 
+# Now, the real porting
+
 Now that u have the data.win, with the UndertaleModTool opened, click in "File -> Open" (in the top left corner) or click "Ctrl + O"!
 
 Select your data.win location
@@ -96,7 +102,7 @@ If u have some error in load, open an [issue](https://github.com/UnderminersTeam
 
 Well, with all done, lets tro the steps.
 
-# Step One: Optimization (not mandatory)
+## Step One: Optimization (not mandatory)
 
 In first, you will remove the shaders, like here:
 
