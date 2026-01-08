@@ -366,8 +366,8 @@ Now, u will learn `how to modifying an existent APK like it if yours`!
 ### Step One: Cloning your APK
 
 Make it like this gif is making:<br />
-![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)<br />
-`IMPORTANT THING THAT I FORGOT TO MENTION:` When you are cloning the APK, make sure that the option `Use old cloning method` is enabled!<br />
+![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
+**IMPORTANT THING THAT I FORGOT TO MENTION:** When you are cloning the APK, make sure that the option `Use old cloning method` is enabled!
 If u don't make this, your APK will crash when u run it (there's a way to correct it with the option disabled, but enable it is better)<br />
 Now, open the `resource.arsc` file in your APK!<br />
 Clicking in `Search resource value`, search the APK actual name.<br />
