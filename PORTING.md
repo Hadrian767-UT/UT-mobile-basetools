@@ -400,7 +400,7 @@ After it, follow the steps for this gif:<br />
 
 #### Making the new icon for Android
 
-In first, download [adaptive_bg](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/adaptive_bg.png) and [adaptive_icon](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/adaptive_icon.png)
+In first, download [adaptive_bg](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/adaptive_bg.png) and [adaptive_icon](https://github.com/Hadrian767-UT/UT-mobile-basetools/blob/main/adaptive_icon.png)<br />
 Now, in your browser, enter in [Pixlr](https://pixlr.com)<br />
 Open the **AI Photo Editor**<br />
 Click in the blue button with the **+**<br />
