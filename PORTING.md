@@ -451,3 +451,8 @@ In the box, replace the actual time to:
 1981-01-01 01:01:02
 ```
 
+And do this in ALL folders and files, leaving the **META-INF** folder for last.
+
+# And done!
+
+Thank you so much for reading! Good luck in your porting career!
