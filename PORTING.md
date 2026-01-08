@@ -405,4 +405,8 @@ Open the **AI Photo Editor**<br />
 Click in the blue button with the **+**<br />
 Select the **adaptive_icon.png**<br />
 Click in the local marked in photo:<br />
-<img width="1618" height="950" alt="Captura de Tela (72)" src="https://github.com/user-attachments/assets/7cbe6193-de7a-4c57-b0cd-a41794da4560" />
+<img width="1618" height="950" alt="Captura de Tela (72)" src="https://github.com/user-attachments/assets/7cbe6193-de7a-4c57-b0cd-a41794da4560" /><br />
+Select **Image**<br />
+Select your dumped .ico<br />
+And put the .ico in center, like this:<br />
+<img width="162" height="162" alt="adaptive_icon" src="https://github.com/user-attachments/assets/d2fdcabf-9fb4-4efc-8039-bafc776dd4cc" />
