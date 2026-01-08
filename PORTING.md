@@ -128,8 +128,24 @@ And wait the magic happens.
 
 #### Sounds (skip this part if all of your sounds is .ogg)
 
+##### Exportation
+
 Click in "Scripts -> Resource Exporters -> ExportAllSounds.csx"
 
 Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)
 
 And wait the magic happens again.
+
+##### Conversion
+
+Download the [Batch WAV to OGG Converter](https://www.ascensiongamedev.com/files/file/15-batch-wav-to-ogg-converter/)
+
+After downloaded, extract it and run the .exe
+
+Click in "Browse"
+
+Select the folder that u put the sounds
+
+And click in "Convert"
+
+And wait the magic happens for the third time. (oh shit, i can't take any more magics 😭)
