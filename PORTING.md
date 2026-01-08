@@ -85,3 +85,13 @@ This even has how decrypt, but is very hard 😭
 Now, backing again for porting methods!
 
 Now that u have the data.win, with the UndertaleModTool opened, click in "File -> Open" (in the top left corner) or click "Ctrl + O"!
+
+Select your data.win location
+
+And wait the data.win being loaded.
+
+If u have some error in load, open an [issue](https://github.com/UnderminersTeam/UndertaleModTool/issues) and follow the steps showed in hour of create an issue.
+
+Well, with all done, lets tro the steps.
+
+## Step One: Optimization (not mandatory)
