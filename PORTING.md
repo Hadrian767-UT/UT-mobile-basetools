@@ -22,10 +22,6 @@ You will have an screen like this:
 
 <img width="1920" height="1037" alt="utmt lol" src="https://github.com/user-attachments/assets/8db432dc-fa42-4894-9cf7-6b51dc90fa6c" />
 
-Now, click in "File" (in the top left corner)
-
-Open your "data.win"!
-
 WARNING: If you only have an .exe (even the game being GameMaker), you game maybe is protected!
 
 Maybe your game is encrypted with Enigma VirtualBox/SFX/Enigma Protector!
@@ -85,3 +81,7 @@ And now, u can close the game.
 But now, if your case is Enigma Protector, i feel so much in say this, but i don't know how to decrypt this, sorry
 
 This even has how decrypt, but is very hard 😭
+
+Now, backing again for porting methods!
+
+Now that u have the data.win, with the UndertaleModTool opened, click in "File -> Open" (in the top left corner) or click "Ctrl + O"!
