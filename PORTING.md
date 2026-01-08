@@ -392,6 +392,14 @@ Third Number: BuildVersion<br />
 
 ### Step Three: Creating modified icons
 
+#### Dumping the original icon
+
+Download and install [Resource Hacker](https://www.angusj.com/resourcehacker/#download)<br />
+After it, follow the steps for this gif:<br />
+![2026-01-08-14-19-08](https://github.com/user-attachments/assets/2299c712-3b32-4ed3-8574-3c7325d4c74c)
+
+#### Making the new icon for Android
+
 In first, in your browser, enter in [Pixlr](https://pixlr.com)<br />
 Open the **AI Photo Editor**<br />
 Click in the blue button with the **+**<br />
