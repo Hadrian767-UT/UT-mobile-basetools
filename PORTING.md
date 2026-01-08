@@ -455,4 +455,9 @@ And do this in ALL folders and files, leaving the **META-INF** folder for last.
 
 # And done!
 
-Thank you so much for reading! Good luck in your porting career!
+Thank you so much for reading!<br />
+I write it all in 2 days! It was hard, but i get it!<br />
+Good luck in your porting career!<br />
+And don't forget for the last important. No make ports all the time, go take care of yourself!<br />
+And happy 2026 for u all!<br />
+Goodbye and cya :3
