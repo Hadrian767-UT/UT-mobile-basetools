@@ -158,7 +158,7 @@ The sprites don't be need to be exported. I will explain it later.
 
 ###### Importation
 
-#### #Fonts
+##### Fonts
 
 Click in **Scripts → Resource Importers → ImportAllFonts.csx**
 
