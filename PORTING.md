@@ -122,6 +122,14 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 Click in "Scripts -> Resource Exporters -> ExportAllFonts.csx"
 
-Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located)
+Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
 
 And wait the magic happens.
+
+#### Sounds (skip this part if all of your sounds is .ogg)
+
+Click in "Scripts -> Resource Exporters -> ExportAllSounds.csx"
+
+Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)
+
+And wait the magic happens again.
