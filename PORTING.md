@@ -432,6 +432,6 @@ Just copy the files (**adaptive_icon** and **adaptive_bg**) to all the folders t
 ##### Obfuscated method
 
 In **MT Manager**, clicking in the APK that u are using, click in the icon<br />
-After this, click in **OK**
-Now, u have an .zip with all icons from the APK in the same directory that the APK is!
+After this, click in **OK**<br />
+Now, u have an .zip with all icons from the APK in the same directory that the APK is!<br />
 Click in the .zip (named **APK-NAME_icon.zip**)
