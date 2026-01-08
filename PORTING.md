@@ -440,3 +440,14 @@ In APK directory, create an folder named "icons" (or other name that u want to u
 Copy the files **adaptive_icon** and **adaptive_bg** to this folder and copy these files more five times
 Now, replace the files names to the name files of the .zip, replacing the **adaptive_icon** normal names to the obfuscated names and the same to the **adaptive_bg**.
 After it done, put the modified .pngs in `res/` location of the APK.
+
+### Step Four (the last of all): Modify date and time of APK
+
+In **MT Manager**, clicking in the APK and after in **VIEW**, press the `assets/` folder, click in **Property**.
+After this, click in **MORE**, and in **Modify time**
+In the box, replace the actual time to:
+
+```
+1981-01-01 01:01:02
+```
+
