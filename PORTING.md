@@ -372,3 +372,27 @@ enum UnknownEnum
 depth = -15800;
 ```
 
+Now, in the code:
+
+```
+gml_Object_closed_captions_Step_0;
+```
+
+In the line: 
+
+```
+2.3+:
+
+enum UnknownEnum
+{
+    Value_m200 = -200,
+    Value_1 = 1,
+    Value_3 = 3
+}
+
+2.2.2.302+:
+
+inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(UnknownEnum.Value_m200) + "}" + text + "&";
+```
+
+we will switch by:
