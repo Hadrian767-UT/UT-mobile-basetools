@@ -285,3 +285,24 @@ Click in **Scripts → Resource Importers → ImportFonts.csx**
 Select the **mobile-controls-location/Joystick/Fonts**
 
 And wait the fonts being imported.
+
+#### Script
+
+Click in **Scripts → Run other script**
+
+Select the **mobile-controls-location/Joystick/idkmobilecontrols4/TouchControlsEnabler0830.csx**
+
+(the **TouchControlsEnabler0403.csx** version is for the UTMT 0.4.0.3)
+
+Click in **Yes** (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
+
+### Arrows 
+
+#### Script
+
+Click in **Scripts → Run other script**
+
+Select the **mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx**
+
+Click in **Yes** (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
+
