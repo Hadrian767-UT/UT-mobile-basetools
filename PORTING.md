@@ -22,19 +22,15 @@ After install it, click with right mouse button in your .exe;<br />
 Put the mouse in `7-Zip → Open Inside`<br />
 Now, if your .exe is like this: <br />
 <img width="100" height="253" alt="Captura de Tela (68)" src="https://github.com/user-attachments/assets/c558ce88-6c59-490f-a905-f677c089f05a" /><br />
-Is Enigma VirtualBox!
+Is **Enigma VirtualBox**!
 
-Now, if 7-zip give this error:  
-
-<img width="414" height="153" alt="Captura de Tela (69)" src="https://github.com/user-attachments/assets/752e9041-16d4-44aa-9a2b-b6ff93c90ee5" />
-
+Now, if 7-zip give this error:<br />
+<img width="414" height="153" alt="Captura de Tela (69)" src="https://github.com/user-attachments/assets/752e9041-16d4-44aa-9a2b-b6ff93c90ee5" /><br />
 Is SFX!
 
-Now, if the .exe is like this:  
-
-<img width="162" height="268" alt="Captura de Tela (70)" src="https://github.com/user-attachments/assets/36067b65-7348-47cc-8d51-072ac6ac7dc4" />
-
-With all the files being the .exe name, Enigma Protector!
+Now, if the .exe is like this:<br />
+<img width="162" height="268" alt="Captura de Tela (70)" src="https://github.com/user-attachments/assets/36067b65-7348-47cc-8d51-072ac6ac7dc4" /><br />
+With all the files being the .exe name, Enigma Protector!<br />
 
 ## Enigma VirtualBox
 
