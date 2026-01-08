@@ -230,18 +230,18 @@ In first, again, do what this gif is making:
 
 Do the same thing in this codes:
 
-> Console_Uninit;<br />
-> Console_Output;<br />
-> Console_OutputLine;<br />
-> Console_Clear;<br />
-> Console_GetInputNumber;<br 
-> Console_GetInput;<br />
-> Console_PopInput;<br />
-> Console_SetVisible;<br />
-> Console_IsVisible;<br />
-> Console_SetStatusText;<br />
-> Console_SetStatusNumber;<br />
-> Console_SetStatusRatio;<br />
+> Console_Uninit<br />
+> Console_Output<br />
+> Console_OutputLine<br />
+> Console_Clear<br />
+> Console_GetInputNumber<br />
+> Console_GetInput<br />
+> Console_PopInput<br />
+> Console_SetVisible<br />
+> Console_IsVisible<br />
+> Console_SetStatusText<br />
+> Console_SetStatusNumber<br />
+> Console_SetStatusRatio<br />
 > Console_Init
 
 ## Step Three: Mobile Stuff (Controls)
