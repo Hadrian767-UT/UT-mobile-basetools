@@ -34,7 +34,7 @@ To discover this, download and install [7-Zip](https://www.7-zip.org/)!
 
 After install it, click with right mouse button in your .exe;
 
-Put the mouse in "7-Zip -> Open Inside"
+Put the mouse in **7-Zip → Open Inside**
 
 Now, if your .exe is like this: 
 
@@ -62,19 +62,19 @@ You will have an screen like this:
 
 <img width="445" height="386" alt="Captura de Tela (67)" src="https://github.com/user-attachments/assets/56694c6a-435f-48d5-a309-c2ecdb88ac21" />
 
-Now, click in the "three dots"
+Now, click in the **three dots**
 
 Select your .exe
 
-And click in "Unpack"!
+And click in **Unpack**!
 
 ## SFX
 
-Open your .exe (clicking "Yes" to admin permission), and open File Explorer.
+Open your .exe (clicking **Yes** to admin permission), and open File Explorer.
 
-In File Explorer, go to "C:\Users\your-user\AppData\Local\Temp"
+In File Explorer, go to **C:\Users\your-user\AppData\Local\Temp**
 
-Now, filter to "Modification date"
+Now, filter to **Modification date**
 
 Now, go to newest folder (or the second, idk if you opened something after it)
 
@@ -96,7 +96,7 @@ Now, backing again for porting methods!
 
 # Now, the real porting
 
-Now that u have the data.win, with the UndertaleModTool opened, click in "File -> Open" (in the top left corner) or click "Ctrl + O"!
+Now that u have the data.win, with the UndertaleModTool opened, click in **File → Open** (in the top left corner) or click **Ctrl + O**!
 
 Select your data.win location
 
@@ -122,7 +122,7 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ##### Fonts
 
-Click in "Scripts -> Resource Exporters -> ExportAllFonts.csx"
+Click in "Scripts → Resource Exporters → ExportAllFonts.csx"
 
 Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
 
@@ -132,7 +132,7 @@ And wait the magic happens.
 
 ###### Exportation
 
-Click in "Scripts -> Resource Exporters -> ExportAllSounds.csx"
+Click in "Scripts → Resource Exporters → ExportAllSounds.csx"
 
 Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)
 
