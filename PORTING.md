@@ -11,25 +11,17 @@ Now, still is a little hard use it to porting. Let's wait to the new updates!<br
 But now, backing to the tutorial:<br />
 Open UndertaleModTool<br />
 You will have an screen like this:<br />
-
 <img width="1920" height="1037" alt="utmt lol" src="https://github.com/user-attachments/assets/8db432dc-fa42-4894-9cf7-6b51dc90fa6c" />
 
 ## Encrypted executables
 
-WARNING: If you only have an .exe (even the game being GameMaker), you game maybe is protected!
-
-Maybe your game is encrypted with Enigma VirtualBox/SFX/Enigma Protector!
-
-To discover this, download and install [7-Zip](https://www.7-zip.org/)!
-
-After install it, click with right mouse button in your .exe;
-
-Put the mouse in `7-Zip → Open Inside`
-
-Now, if your .exe is like this: 
-
+WARNING: If you only have an .exe (even the game being GameMaker), you game maybe is protected!<br />
+Maybe your game is encrypted with Enigma VirtualBox/SFX/Enigma Protector!<br />
+To discover this, download and install [7-Zip](https://www.7-zip.org/)!<br />
+After install it, click with right mouse button in your .exe;<br />
+Put the mouse in `7-Zip → Open Inside`<br />
+Now, if your .exe is like this: <br />
 <img width="100" height="253" alt="Captura de Tela (68)" src="https://github.com/user-attachments/assets/c558ce88-6c59-490f-a905-f677c089f05a" />
-
 Is Enigma VirtualBox!
 
 Now, if 7-zip give this error:  
