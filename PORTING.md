@@ -34,7 +34,7 @@ To discover this, download and install [7-Zip](https://www.7-zip.org/)!
 
 After install it, click with right mouse button in your .exe;
 
-Put the mouse in **7-Zip → Open Inside**
+Put the mouse in `7-Zip → Open Inside`
 
 Now, if your .exe is like this: 
 
@@ -62,19 +62,19 @@ You will have an screen like this:
 
 <img width="445" height="386" alt="Captura de Tela (67)" src="https://github.com/user-attachments/assets/56694c6a-435f-48d5-a309-c2ecdb88ac21" />
 
-Now, click in the **three dots**
+Now, click in the `three dots`
 
 Select your .exe
 
-And click in **Unpack**!
+And click in `Unpack`!
 
 ## SFX
 
-Open your .exe (clicking **Yes** to admin permission), and open File Explorer.
+Open your .exe (clicking `Yes` to admin permission), and open File Explorer.
 
-In File Explorer, go to **C:\Users\your-user\AppData\Local\Temp**
+In File Explorer, go to `C:\Users\your-user\AppData\Local\Temp`
 
-Now, filter to `**Modification date**`
+Now, filter to `Modification date`
 
 Now, go to newest folder (or the second, idk if you opened something after it)
 
@@ -96,7 +96,7 @@ Now, backing again for porting methods!
 
 # Now, the real porting
 
-Now that u have the data.win, with the UndertaleModTool opened, click in **File → Open** (in the top left corner) or click **Ctrl + O**!
+Now that u have the data.win, with the UndertaleModTool opened, click in `File → Open` (in the top left corner) or click `Ctrl + O`!
 
 Select your data.win location
 
@@ -122,7 +122,7 @@ And make it with ALL shaders avaliable in the game, and making the same thing wi
 
 ##### Fonts
 
-Click in **Scripts → Resource Exporters → ExportAllFonts.csx**
+Click in `Scripts → Resource Exporters → ExportAllFonts.csx`
 
 Select the folder that you will put the fonts (i recommend that u create an folder with name "fonts" in the working_directory (directory that the game are located))
 
@@ -132,13 +132,13 @@ And wait the magic happens.
 
 ##### Exportation
 
-Click in **Scripts → Resource Exporters → ExportAllSounds.csx**
+Click in `Scripts → Resource Exporters → ExportAllSounds.csx`
 
 Select the folder that you will put the sounds (i recommend that u create an folder with name "sounds" in the working_directory)
 
 And wait the magic happens again.
 
-> **WARNING:** If you have any .ogg file in working_directory, cut these files to the sounds folder!
+> `WARNING:` If you have any .ogg file in working_directory, cut these files to the sounds folder!
 
 ###### Conversion
 
@@ -146,11 +146,11 @@ Download the [Batch WAV to OGG Converter](https://www.ascensiongamedev.com/files
 
 After downloaded, extract it and run the .exe
 
-Click in **Browse**
+Click in `Browse`
 
 Select the folder that u put the sounds
 
-And click in **Convert**
+And click in `Convert`
 
 And wait the magic happens for the third time. (oh shit, i can't take any more magics 😭)
 
@@ -162,7 +162,7 @@ The sprites don't be need to be exported. I will explain it later.
 
 ##### Fonts
 
-Click in **Scripts → Resource Importers → ImportFonts.csx**
+Click in `Scripts → Resource Importers → ImportFonts.csx`
 
 Select the folder that u put the fonts
 
@@ -170,19 +170,19 @@ And wait the fonts being imported.
 
 ##### Sounds
 
-Click in **Scripts → Resource Importers → ImportSounds.csx**
+Click in `Scripts → Resource Importers → ImportSounds.csx`
 
 Select the folder that u put the sounds
 
-Click **Yes** for all, minus the last (IsDecompressedOnLoad)
+Click `Yes` for all, minus the last (IsDecompressedOnLoad)
 
 And wait the sounds being imported.
 
 ##### Sprites
 
-Click in **Scripts → Resource Importers → NewTextureRepacker.csx**
+Click in `Scripts → Resource Importers → NewTextureRepacker.csx`
 
-Click in **No** for the question
+Click in `No` for the question
 
 And wait the sprites being imported.
 
@@ -206,7 +206,7 @@ In first, do what this gif is making:
 
 (pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)
 
-It need to have done because if u don't do it, the **locale/** folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
+It need to have done because if u don't do it, the `locale/` folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
 
 #### Editing the .txt files inside the folder
 
@@ -216,9 +216,9 @@ Open these files in the notepad:
 
 <img width="107" height="157" alt="Captura de Tela (71)" src="https://github.com/user-attachments/assets/6c343699-7ce3-4bfe-914f-c51c6efa5409" />
 
-(if there's other language name in **locale/** what have these files, do it to these folder too)
+(if there's other language name in `locale/` what have these files, do it to these folder too)
 
-With the files opened, you will remove the **./** from the start of the paths, like this:  
+With the files opened, you will remove the `./` from the start of the paths, like this:  
 
 ![2026-01-08-08-46-47](https://github.com/user-attachments/assets/e90887df-220f-4c2e-bd8d-57bbd38e37b6)
 
@@ -242,33 +242,33 @@ Extract it
 
 #### Sprites
 
-Click in **Scripts → Resource Importers → ImportGraphics.csx**
+Click in `Scripts → Resource Importers → ImportGraphics.csx`
 
-Select the **mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)**
+Select the `mobile-controls-location/MobileKey/MK Codes/Sprites (crosu)`
 
-(pls, don't use the sprite in **Sprites** location, is my sprite and i didn't authorize nobody to use it.)
+(pls, don't use the sprite in `Sprites` location, is my sprite and i didn't authorize nobody to use it.)
 
-Click in **Yes**
+Click in `Yes`
 
-Click in **Ok** when it finish.
+Click in `Ok` when it finish.
 
 #### Sounds
 
-Click in **Scripts → Resource Importers → ImportAllSounds.csx**
+Click in `Scripts → Resource Importers → ImportAllSounds.csx`
 
-Select the **mobile-controls-location/Sounds**
+Select the `mobile-controls-location/Sounds`
 
-Click **Yes** for all, minus the two last (First: IsDecompressedOnLoad; Second: audiogroup name)
+Click `Yes` for all, minus the two last (First: IsDecompressedOnLoad; Second: audiogroup name)
 
-Click in **Ok**
+Click in `Ok`
 
 And wait the sounds be imported.
 
 #### Fonts
 
-Click in **Scripts → Resource Importers → ImportFonts.csx**
+Click in `Scripts → Resource Importers → ImportFonts.csx`
 
-Select the **mobile-controls-location/MobileKey/Fonts (TianQi Buttons)**
+Select the `mobile-controls-location/MobileKey/Fonts (TianQi Buttons)`
 
 (TianQi is the chinese that create the buttons style from my MK, credit him if you will upload your port)
 
@@ -276,11 +276,11 @@ And wait the fonts being imported.
 
 #### Codes
 
-Click in **Scripts → Resource Importers → ImportGML.csx**
+Click in `Scripts → Resource Importers → ImportGML.csx`
 
-Select the **mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)**
+Select the `mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)`
 
-Click in **Yes**
+Click in `Yes`
 
 And wait the codes being imported.
 
@@ -288,55 +288,55 @@ And wait the codes being imported.
 
 #### Sprites
 
-Click in **Scripts → Resource Importers → ImportGraphics.csx**
+Click in `Scripts → Resource Importers → ImportGraphics.csx`
 
-Select the **mobile-controls-location/Joystick/Sprites**
+Select the `mobile-controls-location/Joystick/Sprites`
 
-Click in **Yes**
+Click in `Yes`
 
-Click in **Ok** when it finish.
+Click in `Ok` when it finish.
 
 #### Fonts
 
-Click in **Scripts → Resource Importers → ImportFonts.csx**
+Click in `Scripts → Resource Importers → ImportFonts.csx`
 
-Select the **mobile-controls-location/Joystick/Fonts**
+Select the `mobile-controls-location/Joystick/Fonts`
 
 And wait the fonts being imported.
 
 #### Script
 
-Click in **Scripts → Run other script**
+Click in `Scripts → Run other script`
 
-Select the **mobile-controls-location/Joystick/idkmobilecontrols4/TouchControlsEnabler0830.csx**
+Select the `mobile-controls-location/Joystick/idkmobilecontrols4/TouchControlsEnabler0830.csx`
 
-(the **TouchControlsEnabler0403.csx** version is for the UTMT 0.4.0.3)
+(the `TouchControlsEnabler0403.csx` version is for the UTMT 0.4.0.3)
 
-Click in **Yes** (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
+Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
 
 ### Arrows 
 
 #### Script
 
-Click in **Scripts → Run other script**
+Click in `Scripts → Run other script`
 
-Select the **mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx**
+Select the `mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx`
 
-Click in **Yes** (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
+Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
 
 ### Dual Clicker
 
-Click in **Scripts → Resource Importers → ImportGML.csx**
+Click in `Scripts → Resource Importers → ImportGML.csx`
 
-Select the **mobile-controls-location/Dual Clicker NEW/obj_cc**
+Select the `mobile-controls-location/Dual Clicker NEW/obj_cc`
 
-Click in **Yes**
+Click in `Yes`
 
-**COOL THINGS:** If you want to activate DEBUG button, just modify the variable **global.debug_legally** (it is in the code **gml_Object_obj_cc_Create_0**, change this value of **0** to **1**
+`COOL THINGS:` If you want to activate DEBUG button, just modify the variable `global.debug_legally` (it is in the code `gml_Object_obj_cc_Create_0`, change this value of `0` to `1`
 
 # Now, we will make the controllers appear
 
-Search **world** in search bar, and click in the code
+Search `world` in search bar, and click in the code
 
 ```
 gml_Object_world_Other_2
@@ -356,7 +356,7 @@ instance_create_depth(0, 0, -15998, obj_cc);
 
 # Now, we will make the closed_captions always visible! (or almost visible) 
 
-Searching **closed_captions**, in the code:
+Searching `closed_captions`, in the code:
 
 ```
 gml_Object_closed_captions_Create_0;
@@ -437,19 +437,19 @@ In first, download [MT Manager](https://github.com/Hadrian767-UT/UT-mobile-baset
 
 And after, download the [APKs for porting](https://github.com/Hadrian767-UT/UT-mobile-basetools/tree/main/GMS-APKs) (download the apk that your data.win use, if any APK is missing, write in issues, sending your data.win and the missing GMS APK)
 
-After download and install **MT Manager**, create an folder in any local with any name
+After download and install `MT Manager`, create an folder in any local with any name
 
 ## Moving files
 
-Copy the **data.win**, the **locale/** folder and the APK for the GMS of you data.win.
+Copy the `data.win`, the `locale/` folder and the APK for the GMS of you data.win.
 
-Rename the **data.win** to **game.droid**
+Rename the `data.win` to `game.droid`
 
-And copy your **game.droid** and the **locale/** folder to the **assets/** folder from the APK that u are using.
+And copy your `game.droid` and the `locale/` folder to the `assets/` folder from the APK that u are using.
 
 ## Modifying the APK
 
-Now, u will learn **how to modifying an existent APK like it if yours**!
+Now, u will learn `how to modifying an existent APK like it if yours`!
 
 ### Step One: Cloning your APK
 
@@ -457,13 +457,13 @@ Make it like this gif is making:
 
 ![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
 
-**IMPORTANT THING THAT I FORGOT TO MENTION:** When you are cloning the APK, make sure that the option **Use old cloning method** is enabled!
+`IMPORTANT THING THAT I FORGOT TO MENTION:` When you are cloning the APK, make sure that the option `Use old cloning method` is enabled!
 
 If u don't make this, your APK will crash when u run it (there's a way to correct it with the option disabled, but enable it is better)
 
-Now, open the **resource.arsc** file in your APK!
+Now, open the `resource.arsc` file in your APK!
 
-Clicking in **Search resource value**, search the APK actual name.
+Clicking in `Search resource value`, search the APK actual name.
 
 Now, see that have two strings with the same name?
 
@@ -471,7 +471,7 @@ Edit this two strings with the APKs name that u want to put!
 
 ### Step Two: Modifying options and icons
 
-In first, u will open the **assets/options.ini** from your APK!
+In first, u will open the `assets/options.ini` from your APK!
 
 Then, you will edit it, like this:
 
