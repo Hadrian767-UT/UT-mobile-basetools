@@ -427,4 +427,4 @@ But don't worry! For all the two there's an way to put your icons!
 
 ##### Normal method
 
-Just copy the files (**adaptive_icon** and **adaptive_bg**) to all the folders that have the name **-v26** in the last characters.
+Just copy the files (**adaptive_icon** and **adaptive_bg**) to all the folders that have the name "**-v26**" in the last characters.
