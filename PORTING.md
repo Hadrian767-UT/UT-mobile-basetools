@@ -446,3 +446,5 @@ Rename the **data.win** to **game.droid**
 And copy your **game.droid** and the **locale/** folder to the **assets/** folder from the APK that u are using.
 
 ## Modifying the APK
+
+Now, u will learn **how to modifying an existent APK like it if yours**!
