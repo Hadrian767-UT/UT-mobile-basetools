@@ -448,3 +448,10 @@ And copy your **game.droid** and the **locale/** folder to the **assets/** folde
 ## Modifying the APK
 
 Now, u will learn **how to modifying an existent APK like it if yours**!
+
+### Step One: Cloning your APK
+
+Make it likethis gif is making:
+
+![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
+
