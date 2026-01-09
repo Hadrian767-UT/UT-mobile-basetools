@@ -357,11 +357,11 @@ inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900)
 ```
 # Just more one thing before to the APK things...
 
-Some times, the GMS version what show in UTMT not is totally correct, because it read an specific part of the data.win, what GMS writes a little different of the original...
-But, if your GMS is 2022.9 or minus, do you know that you can see what is the REAL GMS runtime version?
-Yes, you can!
-Just see the `Embedded Images`, the original runtime version will be in the name of the all of these Embedded Images!
-So sad that YoYo remove it in 2023+ versions :(
+Some times, the GMS version what show in UTMT not is totally correct, because it read an specific part of the data.win, what GMS writes a little different of the original...<br />
+But, if your GMS is 2022.9 or minus, do you know that you can see what is the REAL GMS runtime version?<br />
+Yes, you can!<br />
+Just see the `Embedded Images`, the original runtime version will be in the name of the all of these Embedded Images!<br />
+So sad that YoYo remove it in 2023+ versions :(<br />
 But anyways, if you have problems with found an correct APK, it can help you a bit :)
 
 # Now, we will do the things in phone!
