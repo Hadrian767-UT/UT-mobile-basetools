@@ -330,7 +330,7 @@ enum UnknownEnum
     Value_3 = 3
 }
 
-2.2.2.302+:
+2.2.2.302-:
 
 inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(200) + "}" + text + "&";
 ```
@@ -347,7 +347,7 @@ enum UnknownEnum
     Value_3 = 3
 }
 
-2.2.2.302+:
+2.2.2.302-:
 
 inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900) + "}" + text + "&";
 ```
