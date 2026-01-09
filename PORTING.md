@@ -259,12 +259,12 @@ Click in `Yes`<br />
 
 Search `world` in search bar, and click in the code<br />
 
-```gml
+```
 gml_Object_world_Other_2
 ```
 And above the line<br />
 
-```
+```gml
 instance_create_depth(0, 0, 0, closed_captions);
 ```
 
@@ -284,7 +284,7 @@ gml_Object_closed_captions_Create_0;
 
 in the line (for 2.3 or more)<br 
 
-```
+```gml
 enum UnknownEnum
 {
     Value_m100 = -100
@@ -293,13 +293,13 @@ enum UnknownEnum
 
 or in the line (for 2.2.2.302 or minus)
 
-```
+```gml
 depth = 100;
 ```
 
 We will switch Value_m100 (2.3 or +) or the depth (2.2.2.302 or -) for
 
-```
+```gml
 2.3+:
 
 enum UnknownEnum
@@ -320,7 +320,7 @@ gml_Object_closed_captions_Step_0;
 
 In the line: 
 
-```
+```gml
 2.3+:
 
 enum UnknownEnum
@@ -337,7 +337,7 @@ inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(200) + 
 
 we will switch for:
 
-```
+```gml
 2.3+:
 
 enum UnknownEnum
