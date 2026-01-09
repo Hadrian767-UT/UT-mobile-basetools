@@ -270,7 +270,7 @@ instance_create_depth(0, 0, 0, closed_captions);
 
 Add:
 
-```
+```gml
 instance_create_depth(0, 0, -15998, obj_cc);
 ```
 
