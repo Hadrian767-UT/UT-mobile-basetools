@@ -259,7 +259,7 @@ Click in `Yes`<br />
 
 Search `world` in search bar, and click in the code<br />
 
-```
+```gml
 gml_Object_world_Other_2
 ```
 And above the line<br />
