@@ -39,7 +39,7 @@ You will have an screen like this:<br />
 <img width="445" height="386" alt="Captura de Tela (67)" src="https://github.com/user-attachments/assets/56694c6a-435f-48d5-a309-c2ecdb88ac21" /><br />
 Now, click in the `three dots`<br />
 Select your .exe<br />
-And click in `Unpack`!
+And click in `Unpack`!<br />
 After finished, the folder named `%DEFAULT FOLDER%` is the folder that have the original files from the encrypted .exe!
 
 ## SFX
