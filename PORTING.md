@@ -40,6 +40,7 @@ You will have an screen like this:<br />
 Now, click in the `three dots`<br />
 Select your .exe<br />
 And click in `Unpack`!
+After finished, the folder named `%DEFAULT FOLDER%` is the folder that have the original files from the encrypted .exe!
 
 ## SFX
 
