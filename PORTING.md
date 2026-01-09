@@ -158,9 +158,12 @@ With the files opened, you will remove the `./` from the start of the paths, lik
 
 ![2026-01-08-08-46-47](https://github.com/user-attachments/assets/e90887df-220f-4c2e-bd8d-57bbd38e37b6)
 
-### Console_Init Error Fix (just make it if the GMS is 2022.9 or minus) 
+### Console_Init Error Fix
 
-In first, again, do what this gif is making:<br />
+In first, again, see what are the game's GMS! (is in the top of the UTMT)
+If your GMS if 2023 or more, skip this step!
+But if your GMS is 2022.9 or minus, continue!
+After this, do what this gif is making:<br />
 ![2026-01-07 23-05-56](https://github.com/user-attachments/assets/49598b0b-eebf-489c-92d3-9c425a7622cc)<br />
 Do the same thing in this codes:<br />
 
