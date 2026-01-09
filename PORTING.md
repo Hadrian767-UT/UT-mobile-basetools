@@ -84,9 +84,9 @@ shader_set_uniform_*
 shader_set_uniform_*_array
 ```
 > **WARNING:** The * symbol means any letter<br />
-For example: 
-shader_set_uniform_f;
-shader_set_uniform_f_array;
+For example:<br />
+shader_set_uniform_f;<br />
+shader_set_uniform_f_array;<br />
 And others.
 
 ### Fonts, Sounds and  Sprites
