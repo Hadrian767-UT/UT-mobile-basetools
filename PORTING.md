@@ -30,7 +30,7 @@ Is **SFX**!
 
 Now, if the .exe is like this:<br />
 <img width="162" height="268" alt="Captura de Tela (70)" src="https://github.com/user-attachments/assets/36067b65-7348-47cc-8d51-072ac6ac7dc4" /><br />
-With all the files being the .exe name, **Enigma Protector**!<br />
+With all the files being the .exe name, is **Enigma Protector**!<br />
 
 ## Enigma VirtualBox
 
