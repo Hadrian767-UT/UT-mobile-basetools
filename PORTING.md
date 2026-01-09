@@ -73,7 +73,16 @@ Well, with all done, lets tro the steps.
 
 In first, you will remove the shaders, like here:<br />
 ![2026-01-07 21-45-36](https://github.com/user-attachments/assets/4d80830c-c3d6-46cf-a667-60cce53a5a00)<br />
-And make it with ALL shaders avaliable in the game, and making the same thing with all codes showed in "Find all references" screen.
+And make it with ALL shaders avaliable in the game, and making the same thing with all codes showed in **Find all references** screen, using the **Find all references** in this functions:<br />
+
+```gml
+shader_set;
+shader_reset;
+shader_set_uniform;
+shader_get_uniform;
+shader_set_uniform_*
+shader_set_uniform_*_array
+```
 
 ### Fonts, Sounds and  Sprites
 
