@@ -134,7 +134,7 @@ And wait the fonts being imported.
 
 Click in `Scripts → Resource Importers → ImportSounds.csx`<br />
 Select the folder that u put the sounds<br />
-Click `Yes` for all, minus the last (IsDecompressedOnLoad)<br />
+Click `Yes` for all, minus the last (audiogroup name)<br />
 And wait the sounds being imported.
 
 ##### Sprites
