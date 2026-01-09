@@ -144,7 +144,7 @@ About the sounds, some games have an exorbitant size of data.win because of the 
 #### Editing scripts
 
 In first, do what this gif is making: <br />
-<img src="[url](https://github.com/user-attachments/assets/75160e6a-503e-4069-88a7-3f5188f5bff1)" alt="2026-01-07 22-50-59"><br />
+![2026-01-07 22-50-59](https://github.com/user-attachments/assets/9f2d1c82-5d38-4559-8c8b-d1aea7aec667)
 (pls don't care about the Batch WAV to OGG Converter screen in keyboard image, it was an thing that i forgot to disable 😭)<br />
 It need to have done because if u don't do it, the `locale/` folder don't will work and u will got an error, and will no have sprites and fonts iin dialogs (if the game use)
 
