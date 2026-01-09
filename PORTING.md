@@ -370,7 +370,7 @@ Now, u will learn `how to modifying an existent APK like it if yours`!
 ### Step One: Cloning your APK
 
 Make it like this gif is making:<br />
-![Adobe Express - Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
+![Screen_Recording_20260108_081513_MT Manager](https://github.com/user-attachments/assets/d6121802-351d-4028-9c00-9d88003bb187)
 
 **IMPORTANT THING THAT I FORGOT TO MENTION:** When you are cloning the APK, make sure that the option `Use old cloning method` is enabled!
 
@@ -384,7 +384,7 @@ Edit this two strings with the APKs name that u want to put!
 
 In first, u will open the `assets/options.ini` from your APK!<br />
 Then, you will edit it, like this:<br />
-![Adobe Express - Screen_Recording_20260108_121138_MT Manager](https://github.com/user-attachments/assets/e67c8d8e-8335-4ef6-97ab-b7efe0d87449)
+![Screen_Recording_20260108_121138_MT Manager](https://github.com/user-attachments/assets/e67c8d8e-8335-4ef6-97ab-b7efe0d87449)
 
 #### What is your-apk-code?
 
