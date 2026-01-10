@@ -102,9 +102,9 @@ if (global.debug == 1)
     gpu_set_blendmode(bm_normal);
 }
 ```
-> **WARNING:** If u not want to copy this code here, this code is avaliable in the Mobile Stuff .zip too!
-> (in the location **mobile-controls-location/debug things/**)
-> (in this llocation, there's the **Create** code too!)
+> **WARNING:** If u not want to copy this code here, this code is avaliable in the Mobile Stuff .zip too!<br />
+> (in the location **mobile-controls-location/debug things/**)<br />
+> (in this location, there's the **Create** code too!)
 
 # And finished!
 
