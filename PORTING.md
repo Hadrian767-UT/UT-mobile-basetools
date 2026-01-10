@@ -45,7 +45,7 @@ After finished, the folder named `%DEFAULT FOLDER%` is the folder that have the 
 ## SFX
 
 Open your .exe (clicking `Yes` to admin permission), and open File Explorer.<br />
-In File Explorer, go to `C:/Users/your-user/AppData/Local/Temp`<br />
+With the game opened, in File Explorer, go to `C:/Users/your-user/AppData/Local/Temp`<br />
 Now, filter to `Modification date`<br />
 Now, go to newest folder (or the second, idk if you opened something after it)<br />
 Now, open it.<br />
