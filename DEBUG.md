@@ -73,7 +73,7 @@ And in the code:<br />
 gml_Object_battle_enemy_Draw_0
 ```
 
-(this is the code that we created before, anyways)
+(this is the code that we created before, anyways)<br />
 We will put this code:<br />
 
 ```gml
