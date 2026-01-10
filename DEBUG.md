@@ -34,7 +34,7 @@ Before of the lines<br />
 ```gml
 enum UnknownEnum
 {
-    // anything will be here, idk what if it
+    // anything will be here, idk what is it
 }
 ```
 
