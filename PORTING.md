@@ -369,6 +369,11 @@ enum UnknownEnum
 
 inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900) + "}" + text + "&";
 ```
+# And all done in PC!
+
+To save your progress, click in `File → Save` or click **Ctrl + S**
+And click in **Enter** two times!
+
 # Just more one thing before to the APK things...
 
 Some times, the GMS version what show in UTMT not is totally correct, because it read an specific part of the data.win, what GMS writes a little different of the original...<br />
