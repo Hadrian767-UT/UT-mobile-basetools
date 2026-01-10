@@ -66,8 +66,8 @@ Select your data.win location<br />
 And wait the data.win being loaded.<br />
 
 > **WARNING:** If you have an warning like this:<br />
-<img width="407" height="159" alt="Captura de Tela (74)" src="https://github.com/user-attachments/assets/178c0f41-2da3-42d5-b979-302b53c83cf6" />
-It means that your game is **YYC** (compiled with native code, it means, **C++**), it means that the game can't be ported, because of the code.  
+<img width="407" height="159" alt="Captura de Tela (74)" src="https://github.com/user-attachments/assets/178c0f41-2da3-42d5-b979-302b53c83cf6" /><br />
+> It means that your game is **YYC** (compiled with native code, it means, **C++**), it means that the game can't be ported, because of the code.  
 
 If u have some error in load, open an [issue](https://github.com/UnderminersTeam/UndertaleModTool/issues) and follow the steps showed in hour of create an issue.<br />
 Well, with all done, lets to the steps.
