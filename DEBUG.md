@@ -50,7 +50,7 @@ if (keyboard_check_pressed(ord("D")))
 In the object<br />
 
 ```
-obj_battle_enemy
+battle_enemy
 ```
 You will create the `Draw` code, like this gif:<br />
 ![2026-01-09-21-30-13](https://github.com/user-attachments/assets/13b1e355-997d-4043-8460-204dcf257c7d)
