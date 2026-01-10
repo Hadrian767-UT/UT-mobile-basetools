@@ -19,7 +19,7 @@ After this, let's put the DEBUG mode to make us invencible!
 ## Put invencibility in DEBUG mode
 
 Just do what this gif is making:<br />
-![2026-01-09-21-19-31](https://github.com/user-attachments/assets/2c9ea0f8-7db6-4d34-a22b-4f6fede350a8)
+![2026-01-09-21-46-30](https://github.com/user-attachments/assets/9e3cac00-f95e-488e-b651-d2ed0ca948ac)
 
 ## Putting the input to activate the DEBUG mode
 
