@@ -69,7 +69,7 @@ If u not have this error, u can skip this step!<br />
 **2.** In the first four characters, change to **FORM**!<br />
 **3.** Now, click **Ctrl + S** to save your modified **data.win**!<br />
 
-Your **data.win*** should open now!  <br />
+Your **data.win** should open now!  <br />
 Now, backing again for porting methods!
 
 # Now, the real porting
