@@ -105,7 +105,7 @@ shader_set_uniform_*_array
 For example:<br />
 shader_set_uniform_f;<br />
 shader_set_uniform_f_array;<br />
-And others.
+And others.<br />
 > **OTHER WARNING:** As i speaked before, you have to do this step in all codes, minus in **GMLive** scripts (codes with **GMLive** name), is not necessary to delete it from **GMLive** too.
 
 ### Fonts, Sounds and  Sprites
