@@ -289,7 +289,7 @@ Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win
 Click in `Scripts → Resource Importers → ImportGML.csx`<br />
 Select the `mobile-controls-location/Dual Clicker NEW/obj_cc`<br />
 Click in `Yes`<br />
-> ***COOL THINGS:** If you want to activate DEBUG button, just modify the variable `global.debug_legally` (it is in the code `gml_Object_obj_cc_Create_0`, change this value of `0` to `1`
+> **COOL THINGS:** If you want to activate DEBUG button, just modify the variable `global.debug_legally` (it is in the code `gml_Object_obj_cc_Create_0`, change this value of `0` to `1`
 
 # Now, we will make the controllers appear
 
