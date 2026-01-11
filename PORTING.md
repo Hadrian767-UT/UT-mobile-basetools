@@ -66,7 +66,7 @@ U have to do this step!<br />
 If u not have this error, u can skip this step!<br />
 
 **1.** Open the **data.win** in the [**Notepad++**](https://notepad-plus-plus.org/downloads/)!<br />
-**2.** In the first four characters, change to **FORM**!<br />
+**2.** In the first four characters, change the word on these characters to **FORM**!<br />
 **3.** Now, click **Ctrl + S** to save your modified **data.win**!<br />
 
 Your **data.win** should open now!  <br />
