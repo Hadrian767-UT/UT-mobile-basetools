@@ -110,9 +110,8 @@ And others.
 > **OTHER WARNING:** As i speaked before, you have to do this step in all codes, minus in **GMLive** scripts (codes with **GMLive** name), is not necessary to delete it from **GMLive** too.
 >
 > **WARNING 2:** If there's an object called **BLUR_SHADER***/**blur_shader**/**gaussian_blur**/other name, u have to delete ALL things in the **Draw GUI (64)** code!<br />
-> U should to delete **almost all** things in the **Create (0)** code, keeping the code llike this:<br />
-
-```gml
+> U should to delete **almost all** things in the **Create (0)** code, keeping the code like this:<br />
+> ```gml
 draw_set_color(c_white);
 depth = -100000;
 alarm[0] = 30;
