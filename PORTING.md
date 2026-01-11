@@ -62,8 +62,8 @@ This even has how decrypt, but is very hard 😭<br />
 
 If u have an error in **UndertaleModTool**, like this:<br />
 <img width="292" height="152" alt="Captura de Tela (75)" src="https://github.com/user-attachments/assets/9aebe73f-a597-4c72-8357-3551719a7d33" /><br />
-U will do this step!<br />
-If no, u can skip this step!<br />
+U have to do this step!<br />
+If u not have this error, u can skip this step!<br />
 
 **1.** Open the **data.win** in the [**Notepad++**](https://notepad-plus-plus.org/downloads/)!<br />
 **2.** In the first four characters, change to **FORM***!<br />
