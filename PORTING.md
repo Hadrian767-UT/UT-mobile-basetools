@@ -57,6 +57,19 @@ And now, u can close the game.
 
 But now, if your case is Enigma Protector, i feel so much in say this, but i don't know how to decrypt this, sorry<br />
 This even has how decrypt, but is very hard 😭<br />
+
+## Encrypted data.win
+
+If u have an error in **UndertaleModTool**, like this:<br />
+<img width="292" height="152" alt="Captura de Tela (75)" src="https://github.com/user-attachments/assets/9aebe73f-a597-4c72-8357-3551719a7d33" /><br />
+U will do this step!<br />
+If no, u can skip this step!<br />
+
+ - 1. Open the **data.win** in the [**Notepad++**](https://notepad-plus-plus.org/downloads/)!<br />
+   2. In the first four characters, change to **FORM***!<br />
+   3. Now, click **Ctrl + S** to save your modified **data.win**!<br />
+
+Your **data.win*** should open now!  <br />
 Now, backing again for porting methods!
 
 # Now, the real porting
