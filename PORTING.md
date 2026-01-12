@@ -397,10 +397,36 @@ enum UnknownEnum
 
 inst.text = "{instant true}{alpha 1}{gui true}{scale 2}{depth " + string(-15900) + "}" + text + "&";
 ```
-# And all done in PC!
+# And all done in PC (at least for modifying)!
 
 To save your progress, click in `File → Save` or click **Ctrl + S**
 And click in **Enter** two times!
+
+# Moving the files for your phone
+
+After u continue, u have to move files to your phone!<br />
+Use the **FileZilla** or an **USB cable connected in computer** to pass the files! (if u want to use the **FileZilla**, you have to use [this app](https://play.google.com/store/apps/details?id=com.alphainventor.filemanager&hl=pt_BR))
+
+## Using FileZilla
+
+After install the app, go to **Access from...** (or other name, is the last square, in the right)<br />
+After it, click in **START**.
+
+In **FileZilla**, put the informations that the app shows.<br />
+And press **Enter**.<br />
+Mark the unchecked option, and click **Enter**.<br />
+
+After it, click on **device/** folder (in right)<br />
+Create a new folder (pressing the **right button** of the mouse)<br />
+Put any name for folder<br />
+In left, go to your game directory<br />
+And upload the **data.win**, **locale** folder and some important file for game (if it have) to your phone. (selecting the files, pressing the **right button** of mouse, and clicking **Upload**)<br />
+
+# Using USB
+
+Just connect the USB in your PC and in your phone
+Create the folder
+And copy your files to here.
 
 # Just more one thing before to the APK things...
 
