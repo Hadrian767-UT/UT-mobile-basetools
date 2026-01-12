@@ -422,7 +422,7 @@ Put any name for folder<br />
 In left, go to your game directory<br />
 And upload the **data.win**, **locale** folder and some important file for game (if it have) to your phone. (selecting the files, pressing the **right button** of mouse, and clicking **Upload**)<br />
 
-# Using USB
+## Using USB
 
 Just connect the USB in your PC and in your phone
 Create the folder
