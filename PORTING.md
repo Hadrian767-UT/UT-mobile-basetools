@@ -264,6 +264,14 @@ Select the `mobile-controls-location/MobileKey/MK Codes/Codes (TianQi Buttons)`<
 Click in `Yes`<br />
 And wait the codes being imported.
 
+#### Objects
+
+Click in the spear, in the left side of **Objects** name
+Roll the scroll bar until the end
+And click two times in the **obj_mk** object.
+Activate the **Persistent** flag, clicking in the box with the name **Persistent** in right side
+And change **Group** to **1**.
+
 ### Joystick
 
 #### Sprites
@@ -286,6 +294,13 @@ Select the `mobile-controls-location/Joystick/idkmobilecontrols4/TouchControlsEn
 (the `TouchControlsEnabler0403.csx` version is for the UTMT 0.4.0.3)<br />
 Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
 
+#### Objects
+
+Click in the spear, in the left side of **Objects** name
+Roll the scroll bar until the end
+And click two times in the **obj_mobilecontrols** object.
+And change **Group** to **1**.
+
 ### Arrows 
 
 #### Script
@@ -293,6 +308,13 @@ Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win
 Click in `Scripts → Run other script`<br />
 Select the `mobile-controls-location/ArrowsYippie/TouchControlsEnabler0830.csx`<br />
 Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win name isn't "UNDERTALE")
+
+#### Objects
+
+Click in the spear, in the left side of **Objects** name
+Roll the scroll bar until the end
+And click two times in the **obj_mobilecontrols** object.
+And change **Group** to **1**.
 
 ### Dual Clicker
 
