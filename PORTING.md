@@ -266,10 +266,10 @@ And wait the codes being imported.
 
 #### Objects
 
-Click in the spear, in the left side of **Objects** name
-Roll the scroll bar until the end
-And click two times in the **obj_mk** object.
-Activate the **Persistent** flag, clicking in the box with the name **Persistent** in right side
+Click in the spear, in the left side of **Objects** name<br />
+Roll the scroll bar until the end<br />
+And click two times in the **obj_mk** object.<br />
+Activate the **Persistent** flag, clicking in the box with the name **Persistent** in right side<br />
 And change **Group** to **1**.
 
 ### Joystick
@@ -296,9 +296,9 @@ Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win
 
 #### Objects
 
-Click in the spear, in the left side of **Objects** name
-Roll the scroll bar until the end
-And click two times in the **obj_mobilecontrols** object.
+Click in the spear, in the left side of **Objects** name<br />
+Roll the scroll bar until the end<br />
+And click two times in the **obj_mobilecontrols** object.<br />
 And change **Group** to **1**.
 
 ### Arrows 
@@ -311,9 +311,9 @@ Click in `Yes` (if an dialog appear, annd the dialog only appear if the data.win
 
 #### Objects
 
-Click in the spear, in the left side of **Objects** name
-Roll the scroll bar until the end
-And click two times in the **obj_mobilecontrols** object.
+Click in the spear, in the left side of **Objects** name<br />
+Roll the scroll bar until the end<br />
+And click two times in the **obj_mobilecontrols** object.<br />
 And change **Group** to **1**.
 
 ### Dual Clicker
